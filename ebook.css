@@ -1,0 +1,73 @@
+/* https://gist.github.com/adunning/e81342fd8e9a9da9ff51 */
+/* This defines styles and classes used in the book */
+
+body { margin: 0; text-align: justify; font-family: Georgia, serif; }
+code { font-family: monospace; }
+h1,
+h2,
+h3,
+h4,
+h5 { margin-top: 2em; margin-bottom: 2em; page-break-after: avoid; widows: 2; orphans: 2; text-align: left; font-weight: bold; font-style: normal; }
+h1 { font-size: 2em; text-align: center; }
+h2 { font-size: 1.5em; text-align: center; }
+h3 { font-size: 1.3em; margin-bottom: 1em; }
+h4 { font-size: 1.2em; margin-bottom: 1em; text-align: center; }
+h5 { font-size: 1.1em; margin-bottom: 0; }
+
+.title { text-align: center; font-size: 2em; }
+.subtitle { text-align: center; font-size: 1.5em; }
+.author { text-align: center; font-size: 1em; }
+.date { text-align: center; font-size: 1em; }
+.rights { text-align: center; font-size: 1em; }
+
+img { display: block; max-width: 100%; margin: 0 auto; }
+#crèdits img { width: 160px; margin: 0; }
+
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+
+.untitled h1 { display: none; }
+.colophon p { margin: 50px 1em 0 1em; text-align: center; }
+
+blockquote { margin: 1em 1em 1em 2em; text-align: left; font-size: 1em; font-style: italic; }
+blockquote p { margin: 0.5em; }
+blockquote em { font-style: normal; }
+blockquote em em { font-style: italic; }
+blockquote i { font-style: normal; }
+blockquote i i { font-style: italic; }
+
+#cover-image img { width: 100%; }
+
+hr { text-align: center; width: 25%; height: 0; margin: 2em auto; border-bottom: 1px solid #333; }
+
+.footnote-ref { position: relative; top: -0.25em; font-size: 80%;}
+.footnotes { page-break-before: always; }
+
+/*  Disable hyphenation for headings to avoid single-syllable-lines.
+*/
+h1,
+h2,
+h3 {
+	  -epub-hyphens: none;
+  -webkit-hyphens: none;
+     -moz-hyphens: none;
+          hyphens: none;
+}
+
+/* Set the minimum amount of lines to show up on a separate page. (There is not much support for this at the moment.)
+*/
+p,
+blockquote {
+  orphans: 2;
+  widows: 2;
+}
+
+/*  Turn on hyphenation for paragraphs and captions only.
+*/
+p,
+figcaption {
+	  -epub-hyphens: auto;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+          hyphens: auto;
+}

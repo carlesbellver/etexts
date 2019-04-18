@@ -1,0 +1,31 @@
+function make_ebook {
+  ebook=$1
+  if [ -f "$ebook/$ebook.md" -a -f "$ebook/cover.jpg" ]; then
+    cd "$ebook"
+    echo "  Resizing cover"
+    convert -resize 700x1050 cover.jpg cover_large.jpg
+    convert -resize 600x900 cover_large.jpg cover_medium.jpg
+    convert -resize 240x360 cover_medium.jpg cover_small.jpg
+    convert -resize 120x180 cover_small.jpg cover_xsmall.jpg
+    echo "  Generating EPUB"
+    pandoc -f markdown-auto_identifiers "$ebook.md" --epub-chapter-level=3 --toc-depth=2 --css=../ebook.css --dpi 150 --epub-cover-image=cover_large.jpg -o "$ebook.epub"
+    echo "  Generating PDF"
+    /Applications/calibre.app/Contents/console.app/Contents/MacOS/ebook-convert "$ebook.epub" "$ebook.pdf" --paper-size 'a4' --cover cover_large.jpg --preserve-cover-aspect-ratio --pdf-page-numbers --pdf-sans-family HelveticaNeue --pdf-serif-family Georgia --base-font-size 11  --minimum-line-height 150 --pdf-add-toc --toc-title '</>' 
+    echo "  Generating Kindle format"
+    /Applications/calibre.app/Contents/console.app/Contents/MacOS/ebook-convert "$ebook.epub" "$ebook.mobi" --cover cover_large.jpg
+    cd ..
+  fi
+}
+
+if [ ! -z "$1" ]; then
+  ebook=$1
+  echo $ebook
+  make_ebook "$ebook"
+else
+  for i in $(ls -d */)
+  do
+    ebook=${i%%/}
+    echo $ebook
+    make_ebook "$ebook"
+  done
+fi
