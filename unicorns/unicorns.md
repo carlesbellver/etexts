@@ -1,12 +1,12 @@
 % Unicorns
 % Carles Bellver Torlà
-% 2018
+% 2019
 
 ---
 title:    Unicorns
 subtitle: Improvisacions en 1.024 caràcters
 author:   Carles Bellver Torlà
-date:     2018
+date:     2019
 rights:   CC-BY-NC
 lang:     ca
 description: |
@@ -17,9 +17,9 @@ description: |
 # Crèdits {.untitled}
 
 Edició de l’autor    
-Revisió 1/20181118
+Revisió 3/20191001
 
-Copyright 2018 Carles Bellver Torlà
+Copyright 2018, 2019 Carles Bellver Torlà
 
 Imatge de la portada: [*La Dame à la licorne*](https://fr.wikipedia.org/wiki/La_Dame_%C3%A0_la_licorne).
 
@@ -27,7 +27,7 @@ Imatge de la portada: [*La Dame à la licorne*](https://fr.wikipedia.org/wiki/La
 
 Aquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Internacional de Creative Commons. Per veure una còpia de la llicència, visiteu [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
 
-[www.carlesbellver.com](http://www.carlesbellver.com)
+[carlesbellver.net](http://carlesbellver.net)
 
 # Proemi {.untitled}
 
@@ -191,6 +191,12 @@ Estudiaven un informe de l’Oficina de Serveis Estratègics que havia format pa
 
 Pensava que aquest era un debat ja resolt. Una vegada em van contar que algú havia encarregat una nòvia per catàleg en un entresol del carrer de Colom. Li van ensenyar fotos de dones sud-americanes, eslaves i asiàtiques. L’única que s’ajustava al seu pressupost era oriünda, precisament, d’una certa República de Leng. Els amics d’ell la van conèixer i feien comentaris grollers sobre la seva olor i les robes bigarrades. Em vaig estimar més no explicar-ho per no aigualir la festa a ningú.
 
+# *Ghosting*
+
+La figura de Lovecraft —escriptor de Providence que va donar tractament de ficció a la Miskatonic University i a les més agosarades de les seves aventures científiques— ha projectat per molts anys una ombra de dubte sobre el claustre d’aquesta venerable institució. Per al gran públic, Arkham i el seu *college* serien tan reals com Yoknapatawpha o Macondo, i les amenaces soterrades al glaç antàrtic, o en impossibles records primordials, res més que divertiments ancorats en la teosofia i en fantasies psicodèliques.
+
+Millor així, accepten Armitage i companyia. Millor la ignorància que ser arrossegats per la histèria col·lectiva. Al seu torn, ells tendeixen a negar que *Lovecraft* —cognom força improbable— hagi existit mai, i presumeixen que els seus relats van ser obra d’un *ghost writer* en nòmina del govern. S’han perllongat les discussions sobre la seva possible identitat. L’opinió majoritària sol apuntar al pretès marmessor —August Derleth—, però en el fons tothom dubta també que aquest, de fet, existís.
+
 # Rue d’Auseil
 
 L’autor d’aquells diabòlics poemes en prosa era un misteriós personatge que treballava per a l’ambaixada americana. El tiratge, escàs, es va difondre en els cercles habituals, fins que algú es va esquinçar les vestidures. Es van aixecar sospites sobre l’autenticitat d’algunes escenes i sobre la identitat dels subjectes implicats. Jenkin va tocar el dos, mentre que el seu traductor francès, aclaparat per l’oprobi, es va suïcidar.
@@ -246,6 +252,12 @@ Es referia al seu criat oriental. Ningú sabia d’on l’havia tret, i darreram
 No hauria calgut, però, que l’enviés al meu apartament dins d’una caixa de fusta. Les escletxes entre els taulons, havien estat disposades perquè pogués respirar, o perquè jo observés la seva esquena peluda, incòmodament corbada, no menys esfereïdora que els seus grunys? Es regirava, era evident que maldava per escapar d’aquella gàbia inclement. Vaig telefonar a Danvers. Ara no podia venir, em va dir, però si tenia pressa em podia dictar la fórmula —ell va usar una altra paraula— que el faria esvanir-se.
 
 Em trobava tan alterat que vaig necessitar tres intents.
+
+# INS
+
+Hi havia una oficina del Servei d’Immigració i Naturalització dins del campus. Danvers va fer per tranquil·litzar-me. La recerca que s’havia obert, em va assegurar, seria merament rutinària. Sospitava que algun company de departament havia denunciat la desaparició del seu criat només per fer-li la guitza. Sobretot, va insistir, no esmentis l’assumpte de la caixa.
+
+Amb mi, l’oficial es va mostrar més aviat displicent. Va dedicar més temps a examinar el meu passaport que a interrogar-me. Danvers havia declarat abans. Es va empescar que el *noi* era xinès, que havia arribat a Arkham, procedent de Nova York, feia un parell de mesos, que després de donar-li feina va descobrir que era addicte a l’heroïna i que, en aquest període, no era la primera ni la segona vegada que es feia fonedís uns quants dies seguits. Així m’ho va explicar més tard, en el vestíbul de la Biblioteca. Em va parèixer una coartada convincent. La seva inventiva, també en qüestions pràctiques com aquesta, resulta sempre d’allò més sorprenent.
 
 # *Et date illi honorem*
 
@@ -320,6 +332,16 @@ S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 —No ho has entès? Necessàriament cal que hi hagi un secret, que no ens hagin contat com és de debò que hem vingut a parar ací. Un misteri com més fosc i recòndit millor, tan amagat com els mateixos genitals, la còpula dels teus pares i la teva repugnant concepció.
 
 —Per això encara millor si hi ha túnels involucrats, cavernes inexplorades en la pluviïsilva, l’esquerda que espera que aquest Juan o János Móricz vingui a penetrar-la i se n’emporti el tresor més ben guardat.
+
+# *Wishful thinking*
+
+Es deia Asenath i els seus ulls massa clars, lleugerament sortints, no parpellejaven mai. Era, evidentment, oceanògrafa. Havia deixat enrere els quaranta anys, però per als estàndards de Miskatonic comptava com una jove promesa. Defensava teories poc ortodoxes —que havien tingut cert ressó— sobre les estructures submarines de Y’ha-nthlei, i el consell d’ancians local volia veure-hi la seva empremta intel·lectual. Una oportunitat de renovació: l’esperança d’un impossible *aggiornamento*. Una vegada més, confonien desigs amb realitat. La conferència degué decebre’ls horriblement.
+
+Abans de marxar es va fixar en mi. Entre esguards d’incredulitat i desdeny, amb molt de gust vaig acompanyar-la mentre esperava el taxi.
+
+—Faci’s un favor —em va dir— i foti el camp tan aviat com pugui. Això no és un *college*. El que han aixecat ací aquests seqüaços de Charles Fort és una casa de boigs.
+
+La meva beca, vaig tranquil·litzar-la, no durarà gaire. Però no vaig gosar confessar-li que frisava per tocar el dos.
 
 # *Le diable me suit de jour et de nuit car il a peur d’être seul*
 
@@ -397,6 +419,12 @@ M’he aturat davant de l’única mòmia nord-americana de la col·lecció. Ark
 
 —…una de les adquisicions més recents del museu. La van localitzar l’any passat al despatx del director, quan es va morir d’un infart. Quina desgràcia! La tenia dins de l’armari i van suposar que l’havia presa temporalment, per estudiar-la amb més comoditat. Ja sap com en són, d’excèntrics, els savis d’aquests verals. Va tocar revisar inventaris i vitrines. El cas és que no trobàvem que en faltés cap. Al final van decidir exhibir-la amb les altres, mentre en treien l’entrellat. Quan la col·locàvem, algú va fer un comentari i em vaig adonar que era clavada a aquell professor visitant amb qui va tenir diferències i que es va fer fonedís. Però això a mi rai. Un cadàver [*stiff*] és un cadàver. Tant se val que tingui quaranta anys com quatre mil.
 
+# *Die Grundlosigkeit*
+
+Li havien arribat reports de les excavacions de l’Institut Urusvati, en una vall als contraforts occidentals de l’Himàlaia. Un enclavament arqueològic d’una riquesa extraordinària, i d’una remota antiguitat. Coetani, potser, de Mohenjo-Daro? Es tractava, sens dubte, de la misteriosa Kavishnanda, indret bellament descrit pel Swami Panchadasi. Destacava, entre totes les troballes, la d’un pou al qual s’accedia descendint múltiples trams d’escales. A l’estil dels *baoli* de Delhi —que continuen usant-se com a cisternes i banys—, però més primitiu i molt més profund. Carter va evocar per a nosaltres la memorable prosa del místic: els milers de graons, els pòrtics ombrívols, la negror i el borbolleig de l’aigua, l’amenaça de Zura, l’ens ominós al qual s’ofrenaven sacrificis.
+
+—Però ell mateix insinuava que Zura no existeix. És el buit, l’aigua fosca damunt de la qual s’assenta la civilització, el no-res que és a sota i ens sosté, disposat sempre a engolir-nos… I com ens podria sostenir el no-res?
+
 # Com va guanyar Danvers una plaça a Miskatonic
 
 Mentre l’esperava, la secretària del seu tutor li va demanar si podia ajudar-lo amb unes notes que calia mecanografiar. Càndidament va accedir a dictar-li-les i a la segona frase es va adonar del sentit i la procedència reals d’aquell fragment. Però —per això mateix?— no va poder aturar-se i va continuar recitant el full en veu alta, vocalitzant la lletania d’abominables perversions.
@@ -456,6 +484,30 @@ Comptava mentalment. Com voleu que compti un mort? Amb els dits no pot.
 —Quaranta, si més no.
 
 —Una eternitat.
+
+# Acció exterior
+
+—No seria, doncs, pròpiament un idioma?
+
+—Tan sols un dialecte, senyor —va reiterar el secretari del cònsol—. Un patuès xampurrejat per la pagesia.
+
+—Encara pitjor —vaig gosar intervenir-hi—, si em permeteu que discrepi. Un idioma, sí, però enterament fictici, amb gramàtica i lèxic creats *ex nihilo* per filòlegs rabiüts a fi de satisfer deliris xovinistes i ànsies de notorietat. El súmmum d’aquesta conxorxa és l’obra d’un capellà mallorquí, continuada i acabada per un acòlit. Una mena d’atles que projecta una nació lingüística tripartida a través de les variacions geogràfiques d’aquella parla imaginària. La dimensió de l’empresa és tal que no es pot explicar si no s’interpreta en clau al·legòrica, o fins i tot esotèrica o maçònica. No debades el seu promotor era païsà i deixeble del místic medieval Ramon Llull.
+
+Aquella mateix vespre, Rice es va afanyar a demanar per correu el *Diccionari Català-Valencià-Balear*. Avui han arribat els deu volums en una caixa i ja ha començat a estudiar-los amb deler.
+
+# Adéu-siau
+
+Tres colpets suaus a la porta de la sala de professorat vella de l’ala nord —la més discreta—, una pausa i tres colpets més. Sense tardar m’han demanat que passés. Sabia que m’esperaven. He lliurat el nou telegrama i he marxat amb una reverència mentre el conciliàbul s’informava.
+
+—Avui tampoc no podrà venir. Demà sens falta.
+
+M’he aturat un moment a fora per escoltar les primeres reaccions, abans de tornar a baixar per l’escala principal fins al vestíbul. Des d’allí he buscat una altra vegada la consergeria, he agafat el passadís de darrere i l’escala de servei i en tombar al recolze he entrat a la cambra de calderes, on Nebaud ha establit provisionalment el centre d’operacions. Assegut davant de l’escriptori —improvisat amb uns taulons i un parell de bidons buits— jugava amb les titelles petites que ell mateix havia fabricat, i a les quals havia posat noms.
+
+—Què han dit?
+
+—Que els caldrà una bona corda per penjar-se dels salzes. O una ampolla de cianur.
+
+—A veure si aquesta vegada se’n fan l’ànim.
 
 # Darrera defensa
 

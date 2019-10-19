@@ -31,7 +31,7 @@ Copyright 2017 Carles Bellver Torlà
 
 Aquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Internacional de Creative Commons. Per veure una còpia de la llicència, visiteu [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
 
-[www.carlesbellver.com](http://www.carlesbellver.com)
+[carlesbellver.net](http://carlesbellver.net)
 
 # Resum {.untitled}
 

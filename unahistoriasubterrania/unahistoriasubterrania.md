@@ -26,7 +26,7 @@ Imatge de la portada: les muralles de Jericó en la [Bíblia Farhi](https://ca.w
 
 Aquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Internacional de Creative Commons. Per veure una còpia de la llicència, visiteu [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
 
-[www.carlesbellver.com](http://www.carlesbellver.com)
+[carlesbellver.net](http://carlesbellver.net)
 
 # Encapçalament {.untitled}
 

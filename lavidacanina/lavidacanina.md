@@ -22,7 +22,7 @@ Premi de narrativa Vila d’Almassora 2004
 
 Edició de l’autor  
 Primera edició: Brosquil, 2005  
-Revisió 1/20171228
+Revisió 1/20190727
 
 Copyright 2017 Carles Bellver Torlà
 
@@ -30,7 +30,7 @@ Copyright 2017 Carles Bellver Torlà
 
 Aquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Internacional de Creative Commons. Per veure una còpia de la llicència, visiteu [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
 
-[www.carlesbellver.com](http://www.carlesbellver.com)
+[carlesbellver.net](http://carlesbellver.net)
 
 # Resum {.untitled}
 
@@ -597,7 +597,7 @@ Em va despertar un raig de sol. Em vaig estirar tot condolit i vaig sortir. Deu 
 
 —És que tenia por —vaig voler explicar-me—. Només era un somni.
 
-—Vés-te’n —em va contestar ell, sense tornar-me a mirar—.
+—Vés-te’n —em va contestar ell, sense tornar-me a mirar.
 
 # Una pel·lícula francesa
 
