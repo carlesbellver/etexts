@@ -222,7 +222,7 @@ El seu tutor va esclatar a riure. Va arrencar d’una estirada les cobertes del 
 
 —Ara ja ets un dels nostres! —va exclamar, i abandonà el despatx sense parar de riure esgarrifosament–.
 
-Danvers va restar tot sol amb el seu pànic. Es va passar la nit udolant, fins la matinada. Al rompent de l’alba va acudir a la secretaria del Departament de Religions Comparades per firmar el contracte.
+Danvers va restar tot sol amb el seu pànic. Es va passar la nit udolant, fins a la matinada. Al rompent de l’alba va acudir a la secretaria del Departament de Religions Comparades per firmar el contracte.
 
 # Randolph Carter al Tibet
 

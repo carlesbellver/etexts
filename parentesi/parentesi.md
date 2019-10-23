@@ -339,7 +339,7 @@ Aparionar? Unions? Romandre en contacte? A quin ús al·ludia d'una manera críp
 
 En llegir açò, Melcior va llançar una riota histèrica i tot d'una va obrir de bat a bat l'armari de la roba. Primer no vaig entendre què pretenia. Aleshores va començar a regirar els vestits i les bruses de l'Adela fins que el fetitxe va quedar al descobert: una estatueta d'uns quaranta centímetres d'alçada, afaiçonada molt toscament com correspon a una cultura primitiva. A mi no em va parèixer, què voleu que us digui, ni més ni menys que una moneta embarretinada. Va agarrar-la pel tronc amb les dues mans, la va sostenir enlaire, va acostar la boca a l'orella trencada i cridà tan fort com pogué:
 
-—Què hi ha alguuú?
+—Que hi ha alguuú?
 
 Arribats a aquest punt, el quid de la qüestió és què vam sentir en resposta realment. Com s'expliquen aquells murmuris que sonaren a renecs? Malauradament no vam tenir temps d'entaular cap diàleg de caire espiritista perquè, en un tres i no res, ens va caure damunt un piquet integrat per l'Odile, el nòvio policia i un senyor gran, quasi un ancià: el veí bel·ligerant, que s'havia encarregat sens dubte d'alertar els altres. Heus ací el nostre error, el taló d'Aquil·les del nostre pla, altrament tan ben dissenyat. Ens havien enxampat in fraganti i Melcior va ordenar la retirada:
 
@@ -413,7 +413,7 @@ Aquest matí l'Heléna m'ha aturat al corredor en eixir de classe. L'Aleksándr,
 
 —Aquest és el Wladimir, el meu nuvi.
 
-M'he adonat llavors que l'acompanyava un individu amb corbata. La cara llarga, inexpressiva, els ulls que m'escrutaven sense parpellejar. M'ha fet venir un calfred. La situació de sobte s'ha fet massa tensa.
+M'he adonat llavors que l'acompanyava un individu amb corbata. La cara llarga, inexpressiva, els ulls que m'escrutaven sense parpellejar. M'ha fet venir un calfred. La situació, de sobte, s'ha fet massa tensa.
 
 —Li agradaria conèixer-te. Et va bé que dinem junts avui? Pressento que us avindreu.
 
