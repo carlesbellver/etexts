@@ -17,7 +17,7 @@ description: |
 # Crèdits {.untitled}
 
 Edició de l’autor    
-Revisió 3/20191001
+Revisió 4/20191211
 
 Copyright 2018, 2019 Carles Bellver Torlà
 
@@ -552,3 +552,7 @@ No crec que ningú es molesti a comptar els caràcters de cadascuna —o de cap�
 Fóra en va, també, perquè aquest joc amb els nombres i els mots, que convertia l'escriptura en una mena de puzzle o mecano, només m’interessava a mi mentre escrivia. Els 1.024 caràcters conformaven el marc, els límits autoimposats. Qui en pogués llegir el resultat —si algú el llegia—, només caldria que jutgés —o, tant de bo, que gaudís— el resultat. I el seu judici, conforme a la brevetat, hauria de ser ràpid, i la sentència executada a l'instant.
 
 (A mi, si més no, m'ha servit per posar fre a la necessitat d’autocorregir-me indefinidament. Ha estat, en aquest sentit, una prova.)
+
+# Portada original {.untitled}
+
+![Portada original](cover-bw.jpg)
