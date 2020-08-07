@@ -29,7 +29,7 @@ Copyright 2017 Carles Bellver Torlà
 
 ![](by-nc.eu.jpg)
 
-Aquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Internacional de Creative Commons. Per veure una còpia de la llicència, visiteu [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
+Aquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Internacional de Creative Commons. Per veure una còpia de la llicència, visiteu [creativecommons.org](http://creativecommons.org/licenses/by-nc/4.0/).
 
 [carlesbellver.net](http://carlesbellver.net)
 
@@ -43,14 +43,14 @@ Aquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Intern
 
 # Un cel nou i una terra nova
 
-# Citació {.untitled}
+## Citació {.untitled}
 
 > Un pit-roig en una gàbia  
 > tot el cel encén de ràbia.
 >
 > *—William Blake, *Auguris d’innocència*.*
 
-# Dedicatòria {.untitled}
+## Dedicatòria {.untitled}
 
 A I. M. G.,  
 des d’aleshores,  
@@ -352,7 +352,7 @@ un canvi d’estació.
 No era aquell el nostre món,    
 ni tampoc aquest, encara.
 
-# Nota
+## Nota
 
 *Un cel nou i una terra nova* va partir d’un somni, que acabava més o menys on comença el relat: en un laberint d’escales i corredors i en aquella cuina on entra per sorpresa el protagonista, sense esperar-s’ho i sense que l’hi esperen.
 

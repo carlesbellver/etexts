@@ -25,7 +25,7 @@ Copyright 2017 Carles Bellver Torlà (de los textos de la primera parte y de las
 
 ![](by-nc.eu.jpg)
 
-Esta obra está sujeta a la licencia Reconocimiento-NoComercial 4.0 Internacional de Creative Commons. Para ver una copia de esta licencia, visite [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
+Esta obra está sujeta a la licencia Reconocimiento-NoComercial 4.0 Internacional de Creative Commons. Para ver una copia de esta licencia, visite [creativecommons.org](http://creativecommons.org/licenses/by-nc/4.0/).
 
 [carlesbellver.net](http://carlesbellver.net)
 

@@ -1,12 +1,12 @@
 % Unicorns
 % Carles Bellver Torlà
-% 2019
+% 2020
 
 ---
 title:    Unicorns
 subtitle: Improvisacions en 1.024 caràcters
 author:   Carles Bellver Torlà
-date:     2019
+date:     2020
 rights:   CC-BY-NC
 lang:     ca
 description: |
@@ -16,18 +16,26 @@ description: |
 
 # Crèdits {.untitled}
 
-Edició de l’autor    
-Revisió 6/20191212
+Contes, 6
 
-Copyright 2018, 2019 Carles Bellver Torlà
+Edició de l’autor
+Revisió 10/20200802
+
+Copyright 2018–2020 Carles Bellver Torlà
 
 Imatge de la portada: [*La Dame à la licorne*](https://fr.wikipedia.org/wiki/La_Dame_%C3%A0_la_licorne).
 
 ![](by-nc.eu.jpg)
 
-Aquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Internacional de Creative Commons. Per veure una còpia de la llicència, visiteu [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
+Aquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Internacional de Creative Commons. Per veure una còpia de la llicència, visiteu [creativecommons.org](http://creativecommons.org/licenses/by-nc/4.0/).
 
 [carlesbellver.net](http://carlesbellver.net)
+
+# Citació {.untitled}
+
+> Escoltaré la vellutada veu de la dama de l’unicorn del museu Cluny.
+>
+> *—Joan Perucho, *Cendres i diamants*.*
 
 # Proemi {.untitled}
 
@@ -71,9 +79,9 @@ No puc saber amb seguretat quina d’aquestes dues persones sóc. No voldria sab
 
 # Llegendes urbanes
 
-Hi havia dubtes, o més aviat versions diferents, sobre l’origen de la contaminació: podia ser un fragment del meteorit que va caure prop d’Arkham l’any 1882 —el que va desaparèixer del Museu de Ciències Naturals mentre la universitat romangué tancada, durant la caça de bruixes—, o el tros de motlura d’una balustrada que Walter Gilman, estudiant de matemàtiques, va trobar al seu llit —després d’un somni en què s’havia sentit transportat a un altre món— i que ningú més no havia vist mai. Fos el que fos, algú va enviar-ho per correu a un professor de Miskatonic i aquest va morir de manera fulminant en obrir el paquet. Ningú no sabia el nom del professor, ni a quin departament pertanyia, però pareixia que tothom conegués algú que tenia un amic que n’havia estat alumne, anys enrere.
+Hi havia dubtes, o més aviat versions diferents, sobre l’origen de la contaminació: podia ser un fragment del meteorit que va caure prop d’Arkham l’any 1882 —el que va desaparèixer del Museu de Ciències Naturals mentre la universitat romangué tancada, durant la caça de bruixes—, o el tros de motlura d’una balustrada que Walter Gilman, estudiant de matemàtiques, va trobar al seu llit —després d’un somni en què s’havia sentit transportat en un altre món— i que ningú més no havia vist mai. Fos el que fos, algú va enviar-ho per correu a un professor de Miskatonic i aquest va morir de manera fulminant en obrir el paquet. Ningú no sabia el nom del professor, ni a quin departament pertanyia, però pareixia que tothom conegués algú que tenia un amic que n’havia estat alumne, anys enrere.
 
-Fins i tot, es deia, més endavant havia mort també el funcionari que va gestionar el lliurament en l’oficina de correus. La psicosi va durar unes setmanes, el temps just perquè comencés a aflorar un nou report fals.
+Fins i tot, es deia, més endavant havia mort també el funcionari que va gestionar el lliurament a l’oficina de correus. La psicosi va durar unes setmanes, el temps just perquè comencés a aflorar un nou report fals.
 
 # El cau de la bèstia
 
@@ -101,7 +109,7 @@ Fins i tot, es deia, més endavant havia mort també el funcionari que va gestio
 
 S’apropava l’hora de tancar i la cua avançava amb una lentitud exasperant, però no podia deixar l’enviament per l’endemà perquè no estava segur que les còpies arribessin a temps i llavors em podien retirar la beca. Era una d’aquestes ocasions en què sents que la burocràcia i l’univers conspiren contra tu. No es tracta, és clar, de cap mena de pensament racional.
 
-Els funcionaris, de fet, pareixien més encantats que mai, menys diligents, i vés que són, de costum, parsimoniosos. Tenien una visita, un home assegut en una cadira al darrere, i s’entretenien xerrant-hi. Algú d’aspecte poc saludable, amb la cara demacrada i una llangor que feien sospitar la convalescència d’una greu malaltia. Parlava amb un fil de veu. Constanment es giraven per escoltar-lo i aturaven el tràmit que portessin entre mans.
+Els funcionaris, de fet, pareixien més encantats que mai, menys diligents, i ves que són, de costum, parsimoniosos. Tenien una visita, un home assegut en una cadira al darrere, i s’entretenien xerrant-hi. Algú d’aspecte poc saludable, amb la cara demacrada i una llangor que feien sospitar la convalescència d’una greu malaltia. Parlava amb un fil de veu. Constanment es giraven per escoltar-lo i aturaven el tràmit que portessin entre mans.
 
 Warren, més tard, m’ha aclarit el cas.
 
@@ -109,7 +117,7 @@ Warren, més tard, m’ha aclarit el cas.
 
 # Notes per a la memòria final de la beca
 
-Un dels moments crítics en la història de la Miskatonic University seria sens subte la seva clausura el dilluns 7 de juliol de 1958, just quan, paradoxalment, la voràgine maccarthista arribava a la seva fi. Bona part del professorat va patir presó preventiva, llargues i feixugues investigacions i la prohibició temporal de treballar en cap altra institució educativa.
+Un dels moments crítics en la història de la Miskatonic University seria sens dubte la seva clausura el dilluns 7 de juliol de 1958, just quan, paradoxalment, la voràgine maccarthista arribava a la seva fi. Bona part del professorat va patir presó preventiva, llargues i feixugues investigacions i la prohibició temporal de treballar en cap altra institució educativa.
 
 (Ensems, a Pamplona, la premsa local observava que d’uns anys ençà era moda celebrar amb xampany l’esclat del coet anunciador de les festes de Sant Fermí.)
 
@@ -117,13 +125,13 @@ L’activitat acadèmica es va reprendre a mitjan anys seixanta. Primer de forma
 
 # Un drac
 
-La seva tesi doctoral versava sobre l’estada de Bertrand Russell a la Universitat de Pequín. M’ho explicava a la seva biblioteca, mentre jo fullejava una primera edició de *The Analysis of Mind* (George Allen & Unwin, 1921), excel·lentment conservada, i assaboria la copa de *scotch* que m’havia ofert. Ell, tanmateix, preferia com sempre el vi de Porto.
+La seva tesi doctoral versava sobre l’estada de Bertrand Russell a la Universitat de Pequín. M’ho explicava a la seva biblioteca, mentre jo fullejava una primera edició de *The Analysis of Mind* (Allen & Unwin, 1921), excel·lentment conservada, i assaboria la copa de *scotch* que m’havia ofert. Ell, tanmateix, preferia com sempre el vi de Porto.
 
 Ara i adés, jo mirava a través de la finestra cap a les altes muntanyes que s’albiraven urbs enllà.
 
 Em contà el seu viatge. Tingué accés a documentació molt valuosa. Apunts microfilmats d’alumnes de Russell i llibres que li havien pertangut. Entre d’altres, un del qual només recordava —o només recorde jo ara aquest detall— que en una nota al peu s’indicava que encara hi havia dracs a la Xina en temps històrics, mentre que el text principal afirmava que s’extingiren abans.
 
-Per la finestra, al lluny, volava un drac fent giragonses. Aquesta escena, però, la presencià ell, anys enrere, a la Xina, o tots dos plegats a la seva biblioteca? Ja no ho sabrem mai?
+Per la finestra, al lluny, volava un drac fent giragonses. Aquesta escena, però, la presencià ell, anys enrere, a la Xina, o tots dos plegats al seu apartament? Ja no podrem esbrinar-ho mai?
 
 # Jo era d’anís
 
@@ -154,6 +162,14 @@ En un sol full, em va traçar un perfil psicològic més acurat que el que m’h
 A València vam seguir especialitats diferents i no ens vèiem gaire. Vaig portar el full a emmarcar —em va costar quatre-centes pessetes— i així va presidir els meus darrers anys de llicenciatura.
 
 Quan ens creuem, encara intercanviem salutacions i educats somriures.
+
+# Manual d’instruccions
+
+Quan tenia tretze anys, em vaig passar l’estiu reclòs a la biblioteca municipal. Les primeres setmanes, les enciclopèdies van calmar —sense assaciar-la— la meva curiositat intel·lectual. I després, quin buit a l’ànima —o entre l’estómac i el pit, on la posaven els grecs— quan vaig haver enllestit cada tom, per ordre, de la A a la Z. Va ser amb disgust i amb mandra —a falta de res millor— que vaig emprendre el prestatge de les novel·les. Per a sorpresa meva, abans d’arribar a Camus ja començava a albirar, com una revelació, que tenia davant dels ulls l’anhelat manual d’instruccions, la clau amb què desxifrar el què, el perquè i la resta d’interrogants sobre la gent que m’envoltava: tots els misteris que fins aleshores m’havien estat vedats.
+
+(El mapa no és el territori, i les novel·les no són la vida, però alimentaven l’esperança de no perdre-m’hi.)
+
+(I l’emoció estètica? Això seria una altra història, una darrera troballa, tan fortuïta com aquesta, esdevinguda en un prestatge adjacent.)
 
 # *Logisch-Philosophische Abhandlung*
 
@@ -193,9 +209,9 @@ Pensava que aquest era un debat ja resolt. Una vegada em van contar que algú ha
 
 # *Ghosting*
 
-La figura de Lovecraft —escriptor de Providence que va donar tractament de ficció a la Miskatonic University i a les més agosarades de les seves aventures científiques— ha projectat per molts anys una ombra de dubte sobre el claustre d’aquesta venerable institució. Per al gran públic, Arkham i el seu *college* serien tan reals com Yoknapatawpha o Macondo, i les amenaces soterrades al glaç antàrtic, o en impossibles records primordials, res més que divertiments ancorats en la teosofia i en fantasies psicodèliques.
+La figura de Lovecraft —escriptor de Providence que va donar tractament de ficció a la Miskatonic University i a les més agosarades de les seves proeses científiques— ha projectat per molts anys l'ombra del dubte sobre aquest campus menor de l'Ivy League. Per al gran públic, Arkham i el seu *college* serien tan quimèrics com Yoknapatawpha o Macondo, i les amenaces soterrades al glaç antàrtic, o en impossibles records primordials, res més que divertiments ancorats en fantasies teosòfiques i psicodèliques.
 
-Millor així, accepten Armitage i companyia. Millor la ignorància que ser arrossegats per la histèria col·lectiva. Al seu torn, ells tendeixen a negar que *Lovecraft* —cognom força improbable— hagi existit mai, i presumeixen que els seus relats van ser obra d’un *ghost writer* en nòmina del govern. S’han perllongat les discussions sobre la seva possible identitat. L’opinió majoritària sol apuntar al pretès marmessor —August Derleth—, però en el fons tothom dubta també que aquest, de fet, existís.
+Millor així, accepten Armitage i companyia. Millor la ignorància de la plebs que ser arrossegats per una histèria col·lectiva. Al seu torn, ells tendeixen a negar que *Lovecraft* —cognom força improbable— hagi existit mai, i presumeixen que els seus relats van ser obra d’un *ghost writer* en nòmina del govern. Es perllonguen les discussions sobre la seva possible identitat. Les sospites apunten al pretès marmessor —August Derleth—, però en el fons tothom dubta també que ell, de fet, fos una persona real.
 
 # Rue d’Auseil
 
@@ -231,6 +247,16 @@ Crec que dubtava que jo m’estigués prenent l’estudi prou seriosament i em p
 
 Amb els anys vaig entendre que l’aklo només servia per a invocar el dimoni.
 
+# El malson de debò és aquest
+
+Una nit vaig somniar que li implorava que em perdonés i ella es mofava de mi. Taral·lejava una cançoneta, feia una cabriola i em clavava les dents a la mà. Però tornar a veure la seva cara llampant em va causar una impressió molt més forta que la mossegada.
+
+Una altra nit rebia un telegrama. Per alguna raó estava segur que l’enviava ella. M’esforçava a llegir el missatge, i les lletres, la frase, prenien forma davant dels meus ulls. Et perdone, em deia, però m’estime més no tornar a veure’t mai.
+
+Havien passat molts anys. Jo era vell, ella també, i amb prou feines ens reconeixíem, però sabíem, ambdós, que érem nosaltres. Em contava que tenia una filla i un fill, i nets. Jo intentava explicar-me i ella es mostrava perplexa. M’aclaria que no em va culpar mai, que entenia que les circumstàncies van ser despietades i que se’n condolia. Ens abraçàvem, sota la benèvola vigilància del seu marit, mestre jubilat com ella.
+
+Recorde que una vegada em va dir que si ho somniaves ja no passava.
+
 # Bibliografia
 
 Examinàvem sota el flexo la seva darrera adquisició: un exemplar d’*Il newtonianismo per le dame*, col·lecció de diàlegs amb què el savi venecià Francesco Algarotti va contribuir a divulgar la *Philosophiæ naturalis* d’Isaac Newton. A mi em feia recordar, és clar, les lliçons epistolars de Leibniz a Sophie de Hannover i a la seva filla Sophie-Charlotte, publicades recentment amb el títol *Filosofia per a princeses*.
@@ -239,17 +265,35 @@ Examinàvem sota el flexo la seva darrera adquisició: un exemplar d’*Il newto
 
 Són tots, en efecte, vells, i cap dona forma part del claustre d’aquesta venerable institució. La primera persona del plural es podia interpretar, en el seu cas, com un acte de modèstia, però l’exabrupte era abans que res el reconeixement d’un fracàs col·lectiu, la constatació que havien arribat al final del trajecte i es trobaven en una via morta. De sobte, em vaig adonar de les volves de pols suspeses en l’aire, com àtoms de Demòcrit.
 
+# Tornar a Paracels
+
+—Una errada en la numeració de les pàgines feia que paregués que en faltaven un parell. Van córrer rumors sobre el contingut censurat, eliminat a darrera hora amb el manual eixint d’impremta.
+
+—Com fabricar una petita bomba atòmica al garatge de casa, o a la teva cambra, amb el Laboratori Gilbert U-238…
+
+—Al cap i a la fi, el propòsit d’aquell joguet infantil era ensenyar a manipular materials radioactius i crear reaccions nuclears controlades.
+
+—Que la Universitat de Colúmbia en comprés unes quantes caixes va contribuir a alimentar la llegenda.
+
+—I el preu, 49,50 dòlars, era un dineral als anys cinquanta.
+
+—Ellery s’ho va empassar. Amb un grup d’estudiants, es van tancar i van intentar replicar les receptes secretes aplicant enginyeria inversa. Al vespre del segon dia es va escoltar l’explosió.
+
+—Jo no vaig escoltar res. Sóc dur d’orella.
+
+—Amb prou feines es van mascarar les bates. I amb això van donar per acabat el seu afer amb l’àtom. Ja es podien tornar a concentrar en la lectura de Paracels.
+
 # Contra els escèptics
 
-M’explicava el concepte tibetà de tulpa: la capacitat de crear objectes —o éssers vius, fins i tot humans— amb l’energia de la ment. Jo me’n reia.
+M’explicava el concepte tibetà de *tulpa*: la capacitat de crear objectes —o éssers vius, fins i tot humans— amb l’energia de la ment. Jo me’n reia.
 
 —Tu mateix n’has conegut un.
 
-Es referia al seu criat oriental. Ningú sabia d’on l’havia tret, i darrerament l’havíem perdut de vista.
+Es referia al seu criat asiàtic. Ningú sabia d’on l’havia tret, i darrerament l’havíem perdut de vista.
 
 —M’ha passat com a Alexandra David-Néel. Va agafar vida pròpia i ara s’ha tornat maligne. M’agradaria que l’examinessis abans que l’hagi de destruir.
 
-No hauria calgut, però, que l’enviés al meu apartament dins d’una caixa de fusta. Les escletxes entre els taulons, havien estat disposades perquè pogués respirar, o perquè jo observés la seva esquena peluda, incòmodament corbada, no menys esfereïdora que els seus grunys? Es regirava, era evident que maldava per escapar d’aquella gàbia inclement. Vaig telefonar a Danvers. Ara no podia venir, em va dir, però si tenia pressa em podia dictar la fórmula —ell va usar una altra paraula— que el faria esvanir-se.
+No hauria calgut, però, que l’enviés al meu apartament dins d’una caixa de fusta. Les escletxes entre els taulons, havien estat disposades perquè pogués respirar, o perquè jo observés la seva esquena peluda, incòmodament corbada, no menys esfereïdora que els seus grunys? Es regirava, era evident que maldava per escapar d’aquell rigorós captiveri. Vaig telefonar a Danvers. Ara no podia venir, em va dir, però si tenia pressa em podia dictar la fórmula —ell va usar una altra paraula— que el faria esvanir-se.
 
 Em trobava tan alterat que vaig necessitar tres intents.
 
@@ -259,25 +303,39 @@ Hi havia una oficina del Servei d’Immigració i Naturalització dins del campu
 
 Amb mi, l’oficial es va mostrar més aviat displicent. Va dedicar més temps a examinar el meu passaport que a interrogar-me. Danvers havia declarat abans. Es va empescar que el *noi* era xinès, que havia arribat a Arkham, procedent de Nova York, feia un parell de mesos, que després de donar-li feina va descobrir que era addicte a l’heroïna i que, en aquest període, no era la primera ni la segona vegada que es feia fonedís uns quants dies seguits. Així m’ho va explicar més tard, en el vestíbul de la Biblioteca. Em va parèixer una coartada convincent. La seva inventiva, també en qüestions pràctiques com aquesta, resulta sempre d’allò més sorprenent.
 
+# Les mars del sud
+
+En el meu primer dia lliure, vaig planejar una excursió en tren per la rodalia d’Arkham. L’únic episodi remarcable d’aquesta breu escapada s’esdevingué a Innsmouth. El museu d’història estava dedicat sobretot a un orde maçònic local, però el seu tresor més preat eren uns exemplars d’un mamífer marí, originari de la Polinèsia i radicat allí arran del comerç del segle XIX.
+
+Exemplars vius, vull dir. Miss Tilton, conservadora del museu, em va guiar fins a l’entrada d’un passadís que pareixia descendir gradualment sota el Manuxet. Darrere d’un finestral de vidre, en una sala semicircular escassament il·luminada, nedava la malaurada criatura. Vaig suposar que les tenebres n’ocultaven d’altres semblants.
+
+Em va fer pensar en sirenes i en manatís. Però allò era pitjor. Molt més sinistre. Una rata marina, gegantesca, en un aquari brut. Quan em vaig adonar que era quasi l’hora de tancar, i que havíem passat massa temps mirant-nos l’un a l’altre, vaig marxar corrents d’aquell *Jardin des Plantes* gòtic.
+
 # *Et date illi honorem*
 
 Eixint de l’estació, el company de viatge irlandès es va deixar caure de genolls a terra davant meu i el vaig rodejar, però en adonar-me que assenyalava amb l’índex el cel fosc, vaig alçar el cap jo també per admirar plegats la visió del caos estenent-se pel firmament. Un caos reptant que infectava l’ordre incipient de les constel·lacions i impedia que prosperés aquell cosmos embrionari, migrat, que hem cregut copsar des dels pitagòrics i des d’abans dels pitagòrics, des dels astrònoms egipcis i babilònics si més no. Un cosmos que ara, en aquest instant prodigiós, se’ns revelava com un engany: una mentida piadosa, una il·lusió infantil.
 
 *”Timete Deus…”*, va començar a recitar, embarbussant-se, però la nàusea l’aturà i perbocà estrepitosament. Si aquesta agonia era el preu a pagar, jo preferia ignorar el caos i abraçar l’engany. Vaig buscar la petaca, tot confiant que el whisky atenuaria l’empremta indeleble i avui podria tornar a contemplar els estels en pau, com si no hagués canviat res.
 
-# Un ornitorinc a l’armari
+# Un ornitorrinc a l’armari
 
-La companya de pis de Valérie —no li agradava que li digués *només* Valérie: massa concís, massa ordinari, massa jo?— tenia una amiga que estudiava psicologia. Una vegada els va deixar un test d’empatia i me’l van fer emplenar amb elles. Una altra vegada va ser una prova per a detectar risc de depressió. La lletra menuda em suggeria buscar ajuda: no hi havia pensat. S’ho passaven bomba fent conya amb les meves respostes i amb els resultats que treia. Es va convertir en un costum, una distracció fàcil i barata. Els vaig dir que era una llàstima que la seva amiga no fos biòloga. Si em practiquessin una anàlisi d’ADN, descobririen, per exemple, que tenia el codi genètic d’un ornitorinc. No se m’acudia un animal més rar. Els vaig fer riure. No m’havien pres mai molt seriosament.
+La companya de pis de Valérie —no li agradava que li digués *només* Valérie: massa concís, massa ordinari, massa jo?— tenia una amiga que estudiava psicologia. Una vegada els va deixar un test d’empatia i me’l van fer emplenar amb elles. Una altra vegada va ser una prova per a detectar risc de depressió. La lletra menuda em suggerí buscar ajuda: no hi hauria pensat mai. S’ho passaven bomba fent conya amb les meves respostes i els meus resultats. Va esdevenir un costum, una distracció fàcil i barata. Els vaig dir que era una llàstima que la seva amiga no fos biòloga. Si em practiquessin una anàlisi d’ADN, descobririen, posem per cas, que tenia el codi genètic d’un ornitorrinc. No se'm va acudir cap animal més rar. Els vaig fer riure. No m’havien pres mai molt seriosament.
 
-Però la nostra relació s’estava tibant. Havia fumat haixix i vaig dir-li *Valia*. Em va mirar amb tant d’odi que no sabia on amagar-me. Després em va trobar dins d’un armari i em va pegar, però era ella qui plorava.
+Però la nostra relació s’estava tibant. Havia fumat haixix i vaig dir-li *Valia*. Em va mirar amb tant d’odi que no sabia on amagar-me. Després em va trobar dins d’un armari i em va pegar, però la que plorava era ella.
+
+# Sòsia
+
+Em vaig demanar si era possible que s’assemblessin tant i que no fossin la mateixa persona. Però, alhora, no tenia cap dubte que era una altra, gairebé oposada: els cabells més curts, més parisencs, la manera de vestir, més informal, i, sobretot, la desimboltura bohèmia, l’absència d’afectació aristocràtica. Jo havia begut i fumat. Sentia una audàcia i una agilitat verbal segurament infundades. No em va sorprendre prou que em permetés acompanyar-la a casa seva. En la fosca intimitat dels seus llençols, em vaig convèncer que qualsevol semblança havia estat un miratge.
+
+A la matinada, després d’un seguit de malsons, em vaig despertar amb un ensurt i un atac d’asma. “Deixa’m dormir una estona”, va protestar, i em va empènyer fora del llit. Només llavors, mentre m’apujava els pantalons al vestíbul, davant de l’espill i el pòster de turisme de la Dordonya, vaig reconèixer el pis. S’escoltava un xiuxiueig i una rialleta a l’altra cambra i vaig decidir marxar a respirar aire fresc, fins al migdia o al vespre.
 
 # *Longer distance calling*
 
-—Setembre de 1926. Un any abans que AT&T inauguri la connexió transatlàntica amb Londres, un mes abans que Houdini mori d’una peritonitis i al mateix temps que Lovecraft començava a escriure “La crida de Cthulhu” a la seva casa de Providence, on s’havia tornat a instal·lar. Un emprenedor anònim va obrir a Nova York un servei telefònic de comunicació amb el més enllà. “Torni a escoltar la seva veu”, incitava la publicitat. “Continuï parlant amb els seus éssers estimats”. Les tarifes eren elevades. L’èxit va ser rotund en cercles de classe alta.
+—Setembre de 1926. Un any abans que AT&T inauguri la connexió transatlàntica amb Londres, un mes abans que Houdini mori d’una peritonitis i al mateix temps que Lovecraft començava a escriure “La crida de Cthulhu” a la seva casa de Providence, on s’havia tornat a instal·lar, un emprenedor anònim va obrir a Nova York un servei telefònic de comunicació amb el més enllà. “Torni a escoltar la seva veu”, incitava la publicitat. “Continuï parlant amb els seus éssers estimats”. Les tarifes eren elevades. L’èxit va ser rotund en cercles de classe alta.
 
 —Per què has esmentat Houdini? Va ser un dels fraus que va destapar?
 
-—Un dels darrers de què es va ocupar. Va provar que espiaven la clientela potencial i que atresoraven un bon arxiu de dades privades, així que era versemblant que haguessin suplantat alguns difunts. Això no explicava la funció d’una estranya maquina de tubs d’èter que hom va trobar després, però la reputació de l’empresa va resultar danyada irremeiablement i va haver de plegar.
+—Un dels darrers de què es va ocupar. Va provar que espiaven la clientela potencial i que atresoraven un bon arxiu de dades privades, així que era versemblant que haguessin suplantat alguns difunts. Això no explicava la funció d’una estranya maquina de tubs d’èter que hom va trobar després, però la reputació del negoci va resultar danyada irremeiablement i va haver de plegar.
 
 # *Reverse-charge call*
 
@@ -293,6 +351,10 @@ I en aquest punt es va aturar un instant etern.
 
 A l’altre extrem, ara lluïa un riure sardònic el mateix cavaller alt, bru, que uns anys enrere havia executat demostracions d’electromagnetisme i de projecció d’imatges, el mateix que el trenta-u d’octubre anterior va persuadir un estudiant de Mont-real perquè preguntés a Houdini si no creia en els miracles i en les sagrades escriptures i provés si era de debò que aguantava tres bons colps de puny a l’estómac sense parpellejar.
 
+# Nomen sacrum
+
+*Years and years* eren els mots finals que m’havien quedat gravats quan em vaig tornar a despertar. Anys i anys, em repetia mentre em desensonyava, sense saber ja si feia referència al seu llarg sojorn al món o al temps que havia dedicat a encalçar-me. Recordava només a mitges la seva murga. La tenebror del somni m’oprimia i vaig decidir eixir a fer una passejada, en cerca de sol i aire fresc. Aquella cara eixuta i la figura tibada eren les mateixes de sempre. Tanmateix, alguna cosa nova s’havia esdevingut que em feia cavil·lar. Hi havia una escletxa per on entrava la llum. O no era llum, sinó una forma més elaborada de foscor. Tenia, en resum, una pressentiment sobre la seva identitat. El ressò d’un nom que evocava les piràmides i els espais interestel·lars em ballava pel cap, i en un altre temps m’hauria rigut de la pueril superstició que m’impedia pronunciar-lo. Però reconec —per més que em faci vergonya— que ara no gosaria dir-lo en veu alta, ni escriure’l en aquest full en lletres majúscules.
+
 # Primer conte de fades
 
 Quan va complir divuit anys, els amics li van regalar una esclava: mulata, esvelta, els cabells tallats curts com un noiet. La van fer desfilar cap a ell entre els convidats, gairebé nua, lligada amb una corretja ben cenyida al coll. Li van dir entre rialles: és teva, pots fer-li el que vulguis. I això va fer, a partir d’aquella nit.
@@ -305,7 +367,7 @@ A l’abril, amb el canvi d’estació, es va sentir deprimit i se la va emporta
 
 Eufrosina, no van saber com, es va quedar el negoci. Era més gran que les altres i tenia fama de bruixa. Deien que sabia fabricar or. O que havia trobat monedes antigues dins d’una olla. Un misteri tan gran, doncs, com la desaparició del Quim, el seu proxeneta. Però estaven acostumades que els passessin coses inexplicables.
 
-Primer va continuar vivint a la cambra de dalt, al costat de la meva, envoltada d’imatges de sants i marededéus. A l’estiu se’n va anar a un xalet a la Costa Brava. Els va dir que estalviessin i que busquessin un altre ofici. S’ho van prendre com un consell. El Quim els cobrava un cinquanta per cent més el lloguer. Ella només el lloguer. Solia fer jo l’ingrés una vegada per setmana. I molts més encàrrecs. El consideraven inofensiu.
+Primer va continuar vivint a la cambra de dalt, al costat de la meva, envoltada d’imatges de sants i marededéus. A l’estiu se’n va anar a un xalet a la Costa Brava. Els va dir que estalviessin i que busquessin un altre ofici. S’ho van prendre com un consell. El Quim els cobrava un cinquanta per cent més el lloguer. Ella només el lloguer. Solia fer jo l’ingrés una vegada per setmana. I molts més encàrrecs. Em consideraven inofensiu.
 
 Vivien un somni autogestionari que només va durar un trimestre. Al setembre van rebre l’avís d’una immobiliària. Eufrosina havia venut la casa i l’enderrocarien per construir pisos dúplex. Va ser una desbandada. Totes van acabar malament.
 
@@ -333,6 +395,22 @@ S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 
 —Per això encara millor si hi ha túnels involucrats, cavernes inexplorades en la pluviïsilva, l’esquerda que espera que aquest Juan o János Móricz vingui a penetrar-la i se n’emporti el tresor més ben guardat.
 
+# Un farsant
+
+—Els mapes d’Schiaparelli van ser una temptativa notable, però la millor cartografia de Mart continua sent aquesta. I les imatges de la sonda Viking no han fet més que confirmar-ho.
+
+Es va aturar en un full per mostrar-nos el croquis de la regió de Cydonia, dins l’Acidalia Planitia i a la vora dels altiplans d’Arabia Terra. Va assenyalar una zona amb el llapis.
+
+—Evidentment això —va explicar— no era pas cap cara, sinó un simple joc d’ombres. Però les piràmides hi són.
+
+Em van cridar l’atenció, als marges, les inscripcions en un alfabet desconegut i els dibuixos d’animals i plantes fantàstics. Aquestes pàgines havien estat calcades d’un text medieval, que al seu torn era una còpia apòcrifa de fragments dels cèlebres *Manuscrits Pnakòtics*, incomprensibles i imaginaris.
+
+—Van fer una bona feinada, aquells dos postgraduats.
+
+Vaig observar els noms a la carpeta: Sagan i Hoagland. I la data: juny de 1958. Molt abans que la NASA hi enviés un coet.
+
+—Bé, un d’ells no era més que un farsant. Un manifasser.
+
 # *Wishful thinking*
 
 Es deia Asenath i els seus ulls massa clars, lleugerament sortints, no parpellejaven mai. Era, evidentment, oceanògrafa. Havia deixat enrere els quaranta anys, però per als estàndards de Miskatonic comptava com una jove promesa. Defensava teories poc ortodoxes —que havien tingut cert ressó— sobre les estructures submarines de Y’ha-nthlei, i el consell d’ancians local volia veure-hi la seva empremta intel·lectual. Una oportunitat de renovació: l’esperança d’un impossible *aggiornamento*. Una vegada més, confonien desigs amb realitat. La conferència degué decebre’ls horriblement.
@@ -342,6 +420,40 @@ Abans de marxar es va fixar en mi. Entre esguards d’incredulitat i desdeny, am
 —Faci’s un favor —em va dir— i foti el camp tan aviat com pugui. Això no és un *college*. El que han aixecat ací aquests seqüaços de Charles Fort és una casa de boigs.
 
 La meva beca, vaig tranquil·litzar-la, no durarà gaire. Però no vaig gosar confessar-li que frisava per tocar el dos.
+
+# Materials de construcció
+
+Dyers ens va mostrar els fragments de les restes del Gran Desert Arenós. Pareixien enderrocs. Més tard, Ismael diria que eren, exactament, això, i que probablement algú els havia enganyat. Atwood va explicar que n’havien sotmès una mostra a la mateixa tècnica de datació radiomètrica amb què s’havia fixat l’edat de la Terra en 4.540 milions d’anys, i que el resultat havia estat sorprenent i desconcertant, perquè aquelles cambres cúbiques i els rectes passadissos haurien de ser, com a mínim, centenars de milions d’anys més vells que el nostre planeta.
+
+Dyer, transportat, fantasiejava:
+
+—Que en aquesta obra ciclòpia s’utilitzessin materials anteriors a la formació de la Terra, apunta necessàriament a una civilització extraterrestre.
+
+Era tan gran la seva fe en la ciència, i en ells mateixos, que descartaven per principi cap errada en les proves, o en els supòsits en què es basaven aquestes. O, potser, havien desenvolupat una addicció d’allò més perillosa a les conclusiones esbalaïdores.
+
+# Segon Congrés de Futurologia
+
+Les intervencions de N. M. —àlies Irina, del grec Irene: pau— en els debats del primer Congrés de Futurologia, a Balaklava, van fer inexcusable la seva participació en el segon, un any després a Dubrovnik. Doctora en matemàtiques per la Universitat de Moscou, i en psicologia per l’Institut Pavlov de Leningrad, dirigia des de feia poc el laboratori d’exobiologia de la base secreta в/ч 26266.
+
+Carter, que suplantava un físic nuclear francès, s’entrevistà discretament amb ella a la cafeteria de l’hotel en què s’allotjava. Sense coneixement dels seus superiors, intentà —infructuosament— que traís l’URSS i es canviés de bàndol. Però era una comunista convençuda, freda i misteriosa. Havien pres cafè turc i maraschino. Intercanviaren missatges i esguards de reüll. En el seu informe, li dedicà frases d’estudiada ambigüitat.
+
+Quan aquests fets, inevitablement, transcendiren, comportaren la caiguda en desgràcia de Carter davant el Departament d’Estat, per segona vegada i potser definitiva.
+
+# Permuta
+
+Eixint d’una cefalea aguda i un malson de túnels, es va despertar en l’entrellum d’una estança desconeguda. A poc a poc va començar a recordar el viatge, la costa adriàtica, la cafeteria de l’hotel i la fredor de l’espia. Estava assegut i la torpor el paralitzava. Per un moment va pensar que es contemplava en un espill, però l’espill era més avall, sobre la taula, i reflectia la imatge d’ella. Acotant el cap, es va mirar, atònit.
+
+—Sí, Carter, és la meva anatomia, no la teva. Però no t’hi amoïnis, serà un intercanvi temporal.
+
+L’espill, és clar, estava connectat a les làmpades i al díode. Amb l’enginy en marxa resultava òbvia la funció dels engranatges de sota. Així que els roigs també havien aconseguit la seva part del botí i n’havien tret l’entrellat, on els nostres havien fracassat. Urgia refer-se. Ella, en el cos d’ell, havia encès una cigarreta i s’aguantava la tos. Com explicar-ho a Halsey, que l’havia advertit mil vegades que no tornés a fumar.
+
+Anticipava, més que mai, una difícil negociació.
+
+# El triangle
+
+Acabava d’unir-se al laboratori quan s’hi va trobar amb Ismaïl, el cosmonauta d’origen bordurià, peó de l’estratègia d’internacionalització del Kremlin. Van coincidir en una demostració de la unitat de robòtica. Mentre el giny de múltiples potes es desplaçava pel terra com una aranya, Irina es va adonar que algú l’observava a ella. Els seus ulls es van creuar amb els ulls d’ell, la primera vegada de moltes. Però ambdós van ser llavors conscients que els traspassava l’esguard inquisitiu d’Ivan Istotxnikov, que arribaria a coronel i es perdria en l’espai, anys enllà, a bord de la Soyuz 2. Irina i Ivan es van conèixer quan eren menuts, en ser evacuats a Kazan, i no s’havien tornat a veure des de la guerra.
+
+En aquell instant, sense que ho sabessin encara, s’estava definint la geometria de les seves relacions mútues. Però era una geometria anòmala, no euclidiana. L’ambivalència d’un dels angles, la inexplicable i fantasmal presència de Carter, feia que sumessin, òbviament, més de cent-vuitanta graus.
 
 # *Le diable me suit de jour et de nuit car il a peur d’être seul*
 
@@ -356,6 +468,28 @@ Estrafeia tan bé la seva veu que m’ho hauria cregut, però no l’havia vista
 —No hi pots tenir somnis bruts sense que ho sàpiguen —va murmurar sardònic—. És una mena de sisè sentit.
 
 El resol del vespre m’enlluernava. No sabia on mirar. Ell les mirava a elles de fit a fit, especialment a ella. En els seus ulls, m’hi veia a mi a la nit. Vaig voler marxar, però em va fer la traveta i vaig caure arrossegant la cadira. El xerric, les rialles, la vergonya. Ell ja no hi era.
+
+# *Amour fou*
+
+—Declare per endavant la meva ineptitud per a entendre els rituals d’aparellament humans. Així que tot el que en pugui dir s’hauria de posar entre parèntesis.
+
+—Em consta que ell li feia la cort de manera insistent.
+
+—Insistent i exasperant.
+
+—El cas és que ella va demostrar paciència. El refusava *sempre* amb molt de tacte. Fins que una nit, un cap de setmana… Bé, celebraven una festa en una casa de camp de la seva família, a dues hores de París…
+
+—*Très bourgeois*.
+
+—…i pràcticament el va arrossegar al dormitori.
+
+—Es va realitzar el seu desig, doncs.
+
+—Però l’experiència no va resultar tal com esperava. Dilluns següent es va estendre en els detalls de la seva decepció, d’una manera gens respectuosa per a l’intimitat d’ella. Diguem que no se la imaginava tan fogosa i desinhibida.
+
+—Quin tros d’idiota.
+
+—I encara en podia ser més. Dimarts s’havia refet i estava segur que ella va fingir, que es va portar *com una puta* només per desplaure’l i que la deixés estar. No em coneix, va dir, no em rendiré tan fàcilment.
 
 # Empori celestial
 
@@ -413,6 +547,66 @@ He explicat el descobriment a Ismael, becari senegalès, que en sabia altres cos
 
 —Rice va comprar tot el paquet als encants, de tercera mà. Era un regal per al besnet, però el xiquet el va rebutjar, perquè ja tenia un PC, i llavors se li va acudir portar-ho ací.
 
+# Teràpia
+
+—Continues escrivint?
+
+—Això és com si preguntessis a un alcohòlic si continua bevent.
+
+Es va estarrufar.
+
+—Què hi té a veure una cosa amb l’altra!
+
+—És exactament el mateix. L’addicció a l’escriptura ha estat inclosa en les classificacions de trastorns mentals de l’OMS i l’APA. Tècnicament s’anomena grafomania. I sí, continue escrivint, però intente deixar-ho. He començat un programa de deshabituació. Escric únicament a dosis molt mesurades, mil·limetrades. Trenta minuts diaris, mil vint-i-quatre caràcters exactes cada vegada.
+
+—Això és molt poc, no?
+
+—La quantitat precisa que a mi em convé, segons el mètode patentat al MIT.
+
+—Doncs a mi em pareix una llàstima que no escriguis una novel·la.
+
+—Justament això intente evitar. A més d’una vulgaritat, seria senyal que no tinc remei. Qualsevol pot escriure una novel·la, com podràs comprovar a la primera llibreria de barri que trobis. Et confessaré que vaig estar a punt de caure en la temptació, però m’hi vaig saber resistir.
+
+—I la part del beure, com la portes?
+
+# *Bugs*
+
+—Grace B. M. Hopper, oficial de marina i professora a Harvard, va ser la primera a identificar un insecte com a origen dels errors d’un ordinador. L’arna que pertorbava el funcionament del Mark II es conserva al Naval Surface Warfare Center de Dahlgren, Virgínia.
+
+—Però l’insecte no era senzillament la causa dels errors, sinó la seva materialització vivent. Els errors del programari s’hi encarnaven i creaven un camp de distorsió de la realitat veritablement extrem.
+
+—L’encarnació del caos i la corrupció del logos.
+
+—Per això calia extreure l’arna amb tanta cura.
+
+—Sense menystenir mai el potencial creatiu del caos. L’ARPA recull aquesta mena d’insectes des de 1958. Els experiments han confirmat que provoquen respostes inesperades també en cervells humans, no sols electrònics. Alliberen la imaginació en tots els camps del pensament, l’acció i les arts.
+
+(No hauria calgut esperar que, després d’esmerçar dues setmanes a informar-se i debatre sobre ordinadors, arribessin a conclusions d’allò més convencionals.)
+
+# Clark Nova
+
+Mentre teclejava el text d’ahir, un representant de màquines d’escriure ensenyava a Rice el seu últim model.
+
+—Oblidi el bloqueig creatiu. Cregui’m, aquesta màquina té ànima. Pareix que estigui viva i que us parli. Us dictarà les paraules que necessiteu.
+
+Passava la mà per damunt de les tecles, com si les acaronés. Aquell giny tenia una forma peculiar, arrodonida, i era d’un color negre lluent i untuós. Em recordava un escarabat gegant, ominós i atraient a l’hora. La palanca del carro es dreçava com una antena. De sobte, em vaig adonar que m’havia quedat absort i que el representant em mirava de reüll, mentre continuava lloant el producte i intentava persuadir Rice. Però em feia l’efecte que en realitat em parlava a mi.
+
+—No hi ha res a fer —va dir Rice—. El futur pertany als ordinadors.
+
+A la nit no podia dormir. Sentia que algú m’observava. Em vaig alçar i vaig mirar per la finestra. A baix, entre els salzes, el representant m’aguaitava. Portava la màquina davall del braç, dins de la seva funda.
+
+# Comptador de realitat
+
+Havia comprat aquella andròmina a algú que assegurava haver treballat com a secretari de von Braun i que l’oferia, entre d’altres *souvenirs* o *memorabilia*, per un preu elevadíssim. Ningú sabia del cert com funcionava. Se suposava que era un instrument que procedia de l’Alemanya nazi, d’aquell període en què va florir una ciència estranya, amb aplicacions insòlites i cruels.
+
+—Mitjançant un ús imaginatiu de la funció d’ona de la mecànica quàntica, es pot mesurar la proporció d’esdeveniments propers que s’estan esdevenint *realment*.
+
+Això digué. Em va fer l’efecte que el mateix Schrödinger se’n reia en silenci amb mi, i que Einstein s’estirava els cabells. *C’est pataphysique…*
+
+—El que em té confós és que els mesuraments han estat consistentment baixos tots els dies, d’un 20 a un 30 %. Però quan l’utilitze en somni, l’agulla se sol aturar cap al 90 %.
+
+Vaig fer petar els dits diverses vegades. Fins i tot el vaig pessigar. No trobava la manera d’aconseguir que ens despertéssim, ni ell, ni jo.
+
 # Una mòmia és una mòmia
 
 M’he aturat davant de l’única mòmia nord-americana de la col·lecció. Arkham, Massachusetts, n’informava exiguament la fitxa. Un exemplar, entenc, valuós, potser un indi Pennacook, tot i que el rictus i els parracs em suggerien més aviat una bubota.
@@ -431,13 +625,13 @@ Mentre l’esperava, la secretària del seu tutor li va demanar si podia ajudar-
 
 L’havien ben ensarronat. El tutor va aparèixer al llindar al cap d’un lapse de temps que podia haver durat uns minuts o llarguíssimes hores. El despatx, mentrestant, s’havia entenebrat.
 
-—Felicitacions —li va dir—. Ara ja ets un dels nostres.
+—Felicitacions —li va dir—. Ara ja sou un dels nostres.
 
 Va deixar anar una riota sinistra. La secretària es va aixecar i se li va arrambar. Reia ella també —com una hiena— quan van marxar ambdós plegats, passadís enllà. Danvers va restar sol amb el seu pànic. Es va passar la nit udolant, fins a la matinada. Al rompent de l’alba es va assossegar prou per agafar l’estilogràfica i signar el contracte.
 
 # Viatge a Espanya
 
-Ateses les circumstàncies, era normal que s’estenguessin els rumors sobre delators o agents infiltrats. Danvers no va ser aliè a aquesta mena de sospites. Cridaven l’atenció la seva llibertat de moviments i les destinacions dels seus viatges, tan exòtiques com problemàtiques: el Tibet —incorporat a la República Popular de la Xina—, Armènia —Unió Soviètica— i l’Espanya de Franco. No podem esbrinar tot el que buscava en aquests llocs, però hem llegit les seves notes sobre la visita a una ubicació imprecisa de la costa mediterrània, on es conservava el crani d’un ciclop. Esperà tres dies a entrevistar-se amb l’autoritat local. La resposta el sorprengué. Es tractava de les restes d’un avantpassat seu, li digué el capitost. Se les estimava, però s’avindria a lliurar-les a canvi d’una certa suma de diners.
+Ateses les circumstàncies, era normal que s’estenguessin els rumors sobre delators o agents infiltrats. Danvers no va ser aliè a aquesta mena de sospites. Cridaven l’atenció la seva llibertat de moviments i les destinacions dels seus viatges, tan exòtiques com problemàtiques: el Tibet —incorporat a la República Popular de la Xina—, Armènia —Unió Soviètica— i l’Espanya de Franco. No podem precisar tot el que buscava en aquests llocs, però hem llegit les seves notes sobre la visita a una ubicació imprecisa de la costa mediterrània, on es conservava el crani d’un ciclop. Esperà tres dies a entrevistar-se amb l’autoritat local. La resposta el sorprengué. Es tractava de les restes d’un avantpassat seu, li digué el capitost. Se les estimava, però s’avindria a lliurar-les a canvi d’una certa suma de diners.
 
 Danvers maleí tricorns, sotanes i sevillanes. L’esborronava el que va qualificar de “primitivisme africà”. El posseïa, sens dubte, un racisme de classe après com a *White Anglo-Saxon Protestant*.
 
@@ -491,7 +685,7 @@ Comptava mentalment. Com voleu que compti un mort? Amb els dits no pot.
 
 —Tan sols un dialecte, senyor —va reiterar el secretari del cònsol—. Un patuès xampurrejat per la pagesia.
 
-—Encara pitjor —vaig gosar intervenir-hi—, si em permeteu que discrepi. Un idioma, sí, però enterament fictici, amb gramàtica i lèxic creats *ex nihilo* per filòlegs rabiüts a fi de satisfer deliris xovinistes i ànsies de notorietat. El súmmum d’aquesta conxorxa és l’obra d’un capellà mallorquí, continuada i acabada per un acòlit. Una mena d’atles que projecta una nació lingüística tripartida a través de les variacions geogràfiques d’aquella parla imaginària. La dimensió de l’empresa és tal que no es pot explicar si no s’interpreta en clau al·legòrica, o fins i tot esotèrica o maçònica. No debades el seu promotor era païsà i deixeble del místic medieval Ramon Llull.
+—Encara pitjor —vaig gosar intervenir-hi—, si em permeteu que discrepi. Un idioma, sí, però enterament fictici, amb gramàtica i lèxic creats *ex nihilo* per filòlegs rabiüts, a fi de satisfer deliris xovinistes i ànsies de notorietat. El súmmum d’aquesta conxorxa és l’obra d’un capellà mallorquí, continuada i acabada per un acòlit. Una mena d’atles que projecta una nació lingüística tripartida a través de les variacions geogràfiques d’aquella parla imaginària. La dimensió de l’empresa és tal que no es pot explicar si no s’interpreta en clau al·legòrica, fins i tot esotèrica o maçònica. No debades el seu promotor era païsà i deixeble del místic medieval Ramon Llull.
 
 Aquella mateix vespre, Rice es va afanyar a demanar per correu el *Diccionari Català-Valencià-Balear*. Avui han arribat els deu volums en una caixa i ja ha començat a estudiar-los amb deler.
 
@@ -519,7 +713,7 @@ La vaig veure al monestir de Strahov, en una petita *Wunderkammer* annexa a la S
 
 —Que no t’ho creus?
 
-—Vaig llegir que Leibiniz no n’estava molt convençut… Saps qui va ser el primer a sospitar l’origen de tanta banya d’unicorn? Olaus Wormius. El mateix Olaus Wormius que va traduir el *Necronomicon* al llatí.
+—Vaig llegir que Leibniz no n’estava molt convençut… Saps qui va ser el primer a ensumar l’origen de tantes banyes d’unicorn? Olaus Wormius. El mateix Olaus Wormius que va traduir el *Necronomicon* al llatí.
 
 —I què em vols dir amb això?
 
@@ -531,9 +725,9 @@ Enlloc, sens dubte. Només es tractava d’una maniobra de distracció desespera
 
 # *Je ne sais pas si vous vous souvenez de moi*
 
-Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però he oblidat completament el seu cognom. El bloc de pisos on vivia ha sofert una certa degradació. La façana necessitaria una bona mà de pintura. I el pati que li donava un aire de Place des Vosges per a rendes modestes agrairia l’atenció d’un jardiner. He entrat al vestíbul. En la bústia que va ser seva —i de la seva amiga Clémentine— hi ha uns altres noms que han estat ratllats. Però sobretot volia donar una ullada a aquells dos ascensors, un més ampli del que era habitual i l’altre estranyament angost. Això sempre ens feia riure.
+Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però he oblidat completament el seu cognom. El bloc de pisos on vivia ha sofert una certa degradació. La façana necessitaria una bona mà de pintura. I el pati que li donava un aire de Place des Vosges per a rendes modestes agrairia l’atenció d’un jardiner. He entrat al vestíbul. A la bústia que va ser seva —i de la seva amiga Clémentine— hi ha uns altres noms que han estat ratllats. Però sobretot volia donar una ullada a aquells dos ascensors, un més ampli del que era habitual i l’altre estranyament angost. Això sempre ens feia riure.
 
-És dilluns, acabe d’arribar a París i tinc la resta del matí lliure. Per què hi he vingut? De sobte, entre les males herbes del pati, em fa l’efecte que veig Valérie asseguda en un dels bancs de formigó, pàl·lida com una morta, amb un espill a la mà com si continués esperant l’unicorn. Aquesta visió m’espanta i haig de marxar corrents.
+És dilluns, acabe d’arribar a París i tinc la resta del matí lliure. Per què hi he vingut? De sobte, entre les males herbes del pati, em fa l’efecte que veig Valérie asseguda en un dels bancs de formigó, pàl·lida com una morta, amb un espill a la mà com si continués esperant l’unicorn. Aquesta visió m’espanta i haig de marxar tot d'una.
 
 (El seu cognom era Kléber.)
 
@@ -547,11 +741,9 @@ Potser Carter parla massa. La seva facúndia m’atabalava. Ha estat en aquest p
 
 # Coda
 
-No crec que ningú es molesti a comptar els caràcters de cadascuna —o de cap— d’aquestes proses: si és que algú es molestava a llegir-les. Fóra en va, per tant, precisar que la memòria lliure d’un ZX81 era a penes d’uns centenars de bytes; o que el codi ASCII ni tan sols era compatible amb les vocals accentuades del català; i que els codis més moderns, com l’UTF-8, dediquen més d’un byte a cadascun d'aquests caràcters *estranys*.
+No crec que ningú es molesti a comptar els caràcters de cadascuna —o de cap— d’aquestes proses: si és que algú es molestava a llegir-les! Fora en va, per tant, aclarir que la memòria RAM lliure d’un ZX81 era a penes d’uns centenars de bytes; o que era ampliable fins a 64 KB; o que el codi ASCII ni tan sols era compatible amb les vocals accentuades del català; i que les codificacions més modernes, com l’UTF-8, dediquen més d’un octet a cadascun d’aquests caràcters *estranys*; etc., etc.
 
-Fóra en va, també, perquè aquest joc amb els nombres i els mots, que convertia l'escriptura en una mena de puzzle o mecano, només m’interessava a mi mentre escrivia. Els 1.024 caràcters conformaven el marc, els límits autoimposats. Qui en pogués llegir el resultat —si algú el llegia—, només caldria que jutgés —o, tant de bo, que gaudís— el resultat. I el seu judici, conforme a la brevetat, hauria de ser ràpid, i la sentència executada a l'instant.
-
-(A mi, si més no, m'ha servit per posar fre a la necessitat d’autocorregir-me indefinidament. Ha estat, en aquest sentit, una prova.)
+Fora en va, també, perquè aquest joc amb els nombres i els mots, que converteix l’escriptura en una mena de puzle o mecano, a la manera de la literatura potencial, només m’interessava a mi mentre escrivia. Els 1.024 caràcters conformaven el marc, la trava o constricció (*contrainte*), els límits autoimposats. Qui en llegís el resultat —si algú el llegia—, només caldria que jutgés —o, tant de bo, que gaudís— el resultat mateix. I el seu judici, conforme a la brevetat, hauria de ser ràpid, i la sentència executada a l’instant.
 
 # Portada original {.untitled}
 
