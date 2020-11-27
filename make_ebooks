@@ -2,6 +2,10 @@ function make_ebook {
   ebook=$1
   if [ -f "$ebook/$ebook.md" -a -f "$ebook/cover.jpg" ]; then
     cd "$ebook"
+    CSS="--css=../ebook.css"
+    if [ -f "$ebook.css" ]; then
+      CSS="$CSS --css=$ebook.css"
+    fi
     echo "  Resizing cover"
     convert -resize 700x1050 cover.jpg cover_large.jpg
     convert -resize 600x900 cover_large.jpg cover_medium.jpg
@@ -10,7 +14,7 @@ function make_ebook {
     echo "  Generating ODT"
     pandoc -f markdown -t odt -o "$ebook.odt" "$ebook.md"
     echo "  Generating EPUB"
-    pandoc -f markdown-auto_identifiers "$ebook.md" --epub-chapter-level=3 --toc-depth=2 --css=../ebook.css --dpi 150 --epub-cover-image=cover_large.jpg -o "$ebook.epub"
+    pandoc -f markdown-auto_identifiers "$ebook.md" --epub-chapter-level=3 --toc-depth=2 $CSS --dpi 150 --epub-cover-image=cover_large.jpg -o "$ebook.epub"
     echo "  Generating PDF"
     /Applications/calibre.app/Contents/MacOS/ebook-convert "$ebook.epub" "$ebook.pdf" --paper-size 'a4' --cover cover_large.jpg --preserve-cover-aspect-ratio --pdf-page-numbers --pdf-sans-family HelveticaNeue --pdf-serif-family Georgia --base-font-size 10  --minimum-line-height 180 --pdf-add-toc --toc-title 'TAULA'
     echo "  Generating Kindle format"

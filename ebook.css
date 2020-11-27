@@ -1,13 +1,13 @@
 /* https://gist.github.com/adunning/e81342fd8e9a9da9ff51 */
 /* This defines styles and classes used in the book */
 
-body { margin: 0; text-align: justify; font-family: Georgia, serif; }
+body { margin: 0; line-height: 1.25; text-align: justify; font-family: Georgia, serif; }
 code { font-family: monospace; }
 h1,
 h2,
 h3,
 h4,
-h5 { margin-top: 2em; margin-bottom: 2em; page-break-after: avoid; widows: 2; orphans: 2; text-align: left; font-weight: bold; font-style: normal; }
+h5 { margin-top: 2em; margin-bottom: 2em; page-break-after: avoid; widows: 2; orphans: 2; line-height: 1.1; text-align: left; font-weight: bold; font-style: normal; }
 h1 { font-size: 2em; text-align: center; }
 h2 { font-size: 1.5em; text-align: center; }
 h3 { font-size: 1.3em; margin-bottom: 1em; }

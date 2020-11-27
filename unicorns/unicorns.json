@@ -1,8 +1,39 @@
 {
-    "unicorns": [
+    "metadata": {
+        "title": "Unicorns",
+        "subtitle": "Improvisacions en 1.024 caràcters",
+        "author": "Carles Bellver Torlà",
+        "date": "2020",
+        "rights": "CC-BY-NC",
+        "lang": "ca",
+        "description": "Els textos que componen aquest recull van ser redactats l’estiu de 1992 a la Miskatonic University (estada d’investigació sufragada per una beca de la Pickman Foundation). Els vaig teclejar amb un ordinador Sinclair ZX81, relíquia tecnològica contemporània del primer IBM PC, però molt més rudimentària. Misteriosament, no disposaven de cap equip actual per provar *“The effects of the word processor in writing”*…",
+        "bannerweb": "<a href=\"https://fr.wikipedia.org/wiki/La_Dame_%C3%A0_la_licorne\"><img class=\"u-max-full-width\" alt=\"La Dame &agrave; la licorne - detall - Museu de Cluny\" src=\"lady-unicorn_800x290web.jpg\"></a>"
+    },
+    "chapters": [
+        {
+            "no": -2,
+            "title": "Crèdits",
+            "untitled": true,
+            "abstract": "Drets de propietat intel·lectual.",
+            "emoji": "",
+            "italics": false,
+            "text": "Contes, 6\n\nEdició de l’autor\nRevisió 18/20201128\n\nCopyright 2020 Carles Bellver Torlà\n\nImatge de la portada: [*La Dame à la licorne*](https://fr.wikipedia.org/wiki/La_Dame_%C3%A0_la_licorne).\n\nIl·lustracions: [Twemoji](https://twemoji.twitter.com/).\n\n![](by-nc.eu.jpg)\n\nAquesta obra està subjecta a la llicència Reconeixement-NoComercial 4.0 Internacional de Creative Commons. Per veure una còpia de la llicència, visiteu [creativecommons.org](http://creativecommons.org/licenses/by-nc/4.0/).\n[carlesbellver.net](http://carlesbellver.net)",
+            "date": "2020-11-28"
+        },
+        {
+            "no": -1,
+            "title": "Citació",
+            "untitled": true,
+            "abstract": "Joan Perucho.",
+            "emoji": "",
+            "italics": false,
+            "text": "> Escoltaré la vellutada veu de la dama de l’unicorn del museu Cluny.\n>\n> *—Joan Perucho, *Cendres i diamants*.*",
+            "date": "2020-08-15"
+        },
         {
             "no": 0,
-            "title": "",
+            "title": "Proemi",
+            "untitled": true,
             "abstract": "Un projecte d’investigació excessivament modernista, o merament superflu.",
             "emoji": "",
             "italics": false,
@@ -12,6 +43,7 @@
         {
             "no": 1,
             "title": "Hi ha unicorns?",
+            "untitled": false,
             "abstract": "La vaig conèixer en una sala d’estudi de l’antiga Facultat de Lletres de la Universitat de París.",
             "emoji": "2615",
             "italics": false,
@@ -21,6 +53,7 @@
         {
             "no": 2,
             "title": "L’enfer, c’est les autres",
+            "untitled": false,
             "abstract": "Una foto que vaig donar per perduda, va lliscar entre els fulls d’un llibre que no m’havia sabut gens greu prestar-li.",
             "emoji": "1f6ae",
             "italics": true,
@@ -30,6 +63,7 @@
         {
             "no": 3,
             "title": "La presència del mal",
+            "untitled": false,
             "abstract": "L’alcohol etílic és, segons els llibres de text, dissolvent, combustible i psicoactiu.",
             "emoji": "1f525",
             "italics": false,
@@ -39,6 +73,7 @@
         {
             "no": 4,
             "title": "Llegendes urbanes",
+            "untitled": false,
             "abstract": "Fos el que fos, algú va enviar-ho per correu a un professor de Miskatonic i aquest va morir de manera fulminant en obrir el paquet.",
             "emoji": "2604",
             "italics": false,
@@ -48,6 +83,7 @@
         {
             "no": 5,
             "title": "El cau de la bèstia",
+            "untitled": false,
             "abstract": "No ens hauríem d’estranyar, doncs, que Dexter vulgui tenir per mascota una aranya gegant?",
             "emoji": "1f577",
             "italics": false,
@@ -57,6 +93,7 @@
         {
             "no": 6,
             "title": "A l’oficina de correus",
+            "untitled": false,
             "abstract": "Era una d’aquestes ocasions en què sents que la burocràcia i l’univers conspiren contra tu.",
             "emoji": "1f3e4",
             "italics": false,
@@ -66,6 +103,7 @@
         {
             "no": 7,
             "title": "Notes per a la memòria final de la beca",
+            "untitled": false,
             "abstract": "Un dels moments crítics en la història de la Miskatonic University seria sens subte la seva clausura el 1958.",
             "emoji": "1f37e",
             "italics": false,
@@ -75,6 +113,7 @@
         {
             "no": 8,
             "title": "Un drac",
+            "untitled": false,
             "abstract": "La seva tesi doctoral versava sobre l’estada de Bertrand Russell a la Universitat de Pequín.",
             "emoji": "1f409",
             "italics": false,
@@ -84,6 +123,7 @@
         {
             "no": 9,
             "title": "Jo era d’anís",
+            "untitled": false,
             "abstract": "M’enviaven al bar de baix amb els diners comptats i jo pujava amb les dues botelles i el cartó de tabac americà.",
             "emoji": "1f6ac",
             "italics": false,
@@ -93,6 +133,7 @@
         {
             "no": 10,
             "title": "Eudoxia era rossa i es pentinava amb llargues trenes",
+            "untitled": false,
             "abstract": "Va esmentar una pel·lícula de Rohmer i jo li vaig explicar el llibre de Constantin Zoubichryn que acabava de llegir.",
             "emoji": "1f37a",
             "italics": false,
@@ -102,6 +143,7 @@
         {
             "no": 11,
             "title": "Do you long for her, or for the way you were?",
+            "untitled": false,
             "abstract": "En un sol full, em va traçar un perfil psicològic més acurat que el que m’hagués pogut fer cap professional fins llavors.",
             "emoji": "1f3b5",
             "italics": true,
@@ -110,7 +152,8 @@
         },
         {
             "no": 12,
-            "title": " Manual d'instruccions",
+            "title": "Manual d’instruccions",
+            "untitled": false,
             "abstract": "El mapa no és el territori, i les novel·les no són la vida, però alimentaven l’esperança de no perdre-m’hi.",
             "emoji": "1f5c4",
             "italics": false,
@@ -120,6 +163,7 @@
         {
             "no": 13,
             "title": "Logisch-Philosophische Abhandlung",
+            "untitled": false,
             "abstract": "Això sí que és un llibre rar i no aquella fotesa del Necronomicon.",
             "emoji": "1f3eb",
             "italics": true,
@@ -129,6 +173,7 @@
         {
             "no": 14,
             "title": "L’ultimo appello è da dimenticare",
+            "untitled": false,
             "abstract": "Per no saber dir que no, vaig acabar involucrat en la representació d’una escena medieval.",
             "emoji": "1f5e1",
             "italics": true,
@@ -138,6 +183,7 @@
         {
             "no": 15,
             "title": "Das Schnurren",
+            "untitled": false,
             "abstract": "Aquesta nit he somniat que anava a la Fira de Frankfurt i m’entrevistava un repòrter d’una revista alemanya de gossos, Mein Hund & Ich.",
             "emoji": "1f408",
             "italics": true,
@@ -147,6 +193,7 @@
         {
             "no": 16,
             "title": "El futur del món",
+            "untitled": false,
             "abstract": "Cambrers amb esmòquing servien el còctel. L’orquestra interpretava el “Quatuor pour la fin du temps”.",
             "emoji": "1f3bb",
             "italics": false,
@@ -156,6 +203,7 @@
         {
             "no": 17,
             "title": "Dades sobre la localització de l’altiplà de Leng",
+            "untitled": false,
             "abstract": "Estudiaven un informe de l’Oficina de Serveis Estratègics que havia format part de l’arxiu Danvers.",
             "emoji": "1f5fa",
             "italics": false,
@@ -165,6 +213,7 @@
         {
             "no": 18,
             "title": "Ghosting",
+            "untitled": false,
             "abstract": "Per al gran públic, Arkham i el seu college serien tan reals com Yoknapatawpha o Macondo.",
             "emoji": "1f47b",
             "italics": true,
@@ -174,6 +223,7 @@
         {
             "no": 19,
             "title": "Rue d’Auseil",
+            "untitled": false,
             "abstract": "L’autor d’aquells diabòlics poemes en prosa era un misteriós personatge que treballava per a l’ambaixada americana.",
             "emoji": "1f693",
             "italics": true,
@@ -183,6 +233,7 @@
         {
             "no": 20,
             "title": "Records del Tibet",
+            "untitled": false,
             "abstract": "Els lames tibetans que els nazis s’havien emportat a Berlín van ser captats per la Miskatonic University.",
             "emoji": "1f3d4",
             "italics": false,
@@ -192,6 +243,7 @@
         {
             "no": 21,
             "title": "Gramàtica teòrica",
+            "untitled": false,
             "abstract": "Recorde que la idea em va parèixer massa infantil, impròpia de la seva edat, fins i tot comptant que tenia un any menys que jo.",
             "emoji": "1f4d4",
             "italics": false,
@@ -201,6 +253,7 @@
         {
             "no": 22,
             "title": "El malson de debò és aquest",
+            "untitled": false,
             "abstract": "Una nit vaig somniar que li implorava que em perdonés i ella es mofava de mi.",
             "emoji": "1f9b7",
             "italics": false,
@@ -210,6 +263,7 @@
         {
             "no": 23,
             "title": "Bibliografia",
+            "untitled": false,
             "abstract": "Examinàvem sota el flexo la seva darrera adquisició: un exemplar d’“Il newtonianismo per le dame”.",
             "emoji": "269b",
             "italics": false,
@@ -219,6 +273,7 @@
         {
             "no": 24,
             "title": "Tornar a Paracels",
+            "untitled": false,
             "abstract": "Com fabricar una petita bomba atòmica amb el Laboratori Gilbert U-238.",
             "emoji": "2697",
             "italics": false,
@@ -228,6 +283,7 @@
         {
             "no": 25,
             "title": "Contra els escèptics",
+            "untitled": false,
             "abstract": "M’explicava el concepte tibetà de tulpa: la capacitat de crear objectes amb l’energia de la ment. Jo me’n reia.",
             "emoji": "1f4e6",
             "italics": false,
@@ -237,6 +293,7 @@
         {
             "no": 26,
             "title": "INS",
+            "untitled": false,
             "abstract": "Hi havia una oficina del Servei d’Immigració i Naturalització dins del campus. Danvers va fer per tranquil·litzar-me.",
             "emoji": "1f3e2",
             "italics": false,
@@ -246,6 +303,7 @@
         {
             "no": 27,
             "title": "Les mars del sud",
+            "untitled": false,
             "abstract": "Una excursió en tren per la rodalia d'Arkham.",
             "emoji": "1f9dc",
             "italics": false,
@@ -255,6 +313,7 @@
         {
             "no": 28,
             "title": "Et date illi honorem",
+            "untitled": false,
             "abstract": "Un caos reptant que infectava l’ordre incipient de les constel·lacions i impedia que prosperés aquell cosmos embrionari.",
             "emoji": "1f30c",
             "italics": true,
@@ -263,7 +322,8 @@
         },
         {
             "no": 29,
-            "title": "Un ornitorinc a l’armari",
+            "title": "Un ornitorrinc a l’armari",
+            "untitled": false,
             "abstract": "No li agradava que li digués només Valérie: massa concís, massa ordinari, massa jo?",
             "emoji": "1f52c",
             "italics": false,
@@ -272,7 +332,8 @@
         },
         {
             "no": 30,
-            "title": " Sòsia",
+            "title": "Sòsia",
+            "untitled": false,
             "abstract": "Em vaig demanar si era possible que s’assemblessin tant i que no fossin la mateixa persona.",
             "emoji": "1f377",
             "italics": false,
@@ -282,6 +343,7 @@
         {
             "no": 31,
             "title": "Longer distance calling",
+            "untitled": false,
             "abstract": "“Continuï parlant amb els seus éssers estimats”. Les tarifes eren elevades. L’èxit va ser rotund en cercles de classe alta.",
             "emoji": "1f4de",
             "italics": true,
@@ -291,6 +353,7 @@
         {
             "no": 32,
             "title": "Reverse-charge call",
+            "untitled": false,
             "abstract": "Un llamp va esquinçar de cap a cap el cel clar damunt de Harlem. Va sonar el telèfon i Bess va contestar.",
             "emoji": "26a1",
             "italics": true,
@@ -299,7 +362,8 @@
         },
         {
             "no": 33,
-            "title": " Nomen sacrum",
+            "title": "Nomen sacrum",
+            "untitled": false,
             "abstract": "Un nom que no gosaria pronunciar en veu alta, ni escriure en aquest full en lletres majúscules.",
             "emoji": "1f520",
             "italics": true,
@@ -309,6 +373,7 @@
         {
             "no": 34,
             "title": "Primer conte de fades",
+            "untitled": false,
             "abstract": "Quan va complir divuit anys, els amics li van regalar una esclava: mulata, esvelta, els cabells tallats curts com un noiet.",
             "emoji": "1f6f3",
             "italics": false,
@@ -318,6 +383,7 @@
         {
             "no": 35,
             "title": "Segon conte de fades",
+            "untitled": false,
             "abstract": "Eufrosina, no van saber com, es va quedar el negoci. Era més gran que les altres i tenia fama de bruixa.",
             "emoji": "1f3d7",
             "italics": false,
@@ -327,6 +393,7 @@
         {
             "no": 36,
             "title": "Fins que la mort ens separi, xaval",
+            "untitled": false,
             "abstract": "Al matí ens havia impartit un seminari sobre grafologia que jo havia trobat còmic, absurd. Al vespre havia anat a buscar-lo a casa seva.",
             "emoji": "270d",
             "italics": false,
@@ -336,6 +403,7 @@
         {
             "no": 37,
             "title": "La història secreta del món",
+            "untitled": false,
             "abstract": "No tinc cap dubte que es tracta d’un tema freudià. El títol del quadre de Courbet expressa succintament l’associació d’idees a què em referisc.",
             "emoji": "1f573",
             "italics": false,
@@ -345,6 +413,7 @@
         {
             "no": 38,
             "title": "Un farsant",
+            "untitled": false,
             "abstract": "La millor cartografia de Mart continua sent aquesta.",
             "emoji": "1f52d",
             "italics": false,
@@ -354,6 +423,7 @@
         {
             "no": 39,
             "title": "Wishful thinking",
+            "untitled": false,
             "abstract": "Es deia Asenath i els seus ulls massa clars, lleugerament sortints, no parpellejaven mai. Era, evidentment, oceanògrafa.",
             "emoji": "1f30a",
             "italics": true,
@@ -363,6 +433,7 @@
         {
             "no": 40,
             "title": "Materials de construcció",
+            "untitled": false,
             "abstract": "Aquelles cambres cúbiques i els rectes passadissos haurien de ser, com a mínim, centenars de milions d'anys més vells que el nostre planeta.",
             "emoji": "1f9f1",
             "italics": false,
@@ -371,7 +442,8 @@
         },
         {
             "no": 41,
-            "title": "Segon congrés de futurologia",
+            "title": "Segon Congrés de Futurologia",
+            "untitled": false,
             "abstract": "Carter suplantava un físic nuclear francès.",
             "emoji": "1f3e8",
             "italics": false,
@@ -380,7 +452,8 @@
         },
         {
             "no": 42,
-            "title": " Permuta",
+            "title": "Permuta",
+            "untitled": false,
             "abstract": "Els roigs també havien aconseguit la seva part del botí i n'havien tret l'entrellat.",
             "emoji": "1f504",
             "italics": false,
@@ -390,6 +463,7 @@
         {
             "no": 43,
             "title": "El triangle",
+            "untitled": false,
             "abstract": "Mentre el giny de múltiples potes es desplaçava pel terra com una aranya, Irina es va adonar que algú l'observava a ella.",
             "emoji": "26a0",
             "italics": false,
@@ -399,6 +473,7 @@
         {
             "no": 44,
             "title": "Le diable me suit de jour et de nuit car il a peur d’être seul",
+            "untitled": false,
             "abstract": "M’inspirava un tendre amor platònic. Però el torrent dels somnis, brusc i impetuós, tendia a ser d’un to molt més lúbric que els meus sentiments.",
             "emoji": "1f479",
             "italics": true,
@@ -408,6 +483,7 @@
         {
             "no": 45,
             "title": "Amour fou",
+            "untitled": false,
             "abstract": "Declare per endavant la meva ineptitud per a entendre els rituals d’aparellament humans.",
             "emoji": "1f942",
             "italics": true,
@@ -417,6 +493,7 @@
         {
             "no": 46,
             "title": "Empori celestial",
+            "untitled": false,
             "abstract": "El llibre era, no en tingueu cap dubte, aquell famós “Empori celestial de coneixements benèvols” que tants rius de tinta ha fet córrer.",
             "emoji": "1f4da",
             "italics": false,
@@ -426,6 +503,7 @@
         {
             "no": 47,
             "title": "La pell pintada",
+            "untitled": false,
             "abstract": "Abans de marxar em va explicar un altre conte xinès recollit per Kuhn. En una província al sud del riu Groc, un ric comerciant…",
             "emoji": "1f58c",
             "italics": false,
@@ -435,6 +513,7 @@
         {
             "no": 48,
             "title": "Creuer pel Yann",
+            "untitled": false,
             "abstract": "No sóc gens afeccionat a viatjar, però l’anunci en aquell aparador va fer que m’hi aturés.",
             "emoji": "1f9f3",
             "italics": false,
@@ -444,6 +523,7 @@
         {
             "no": 49,
             "title": "Arqueologia informàtica",
+            "untitled": false,
             "abstract": "Aquest tros de plàstic que prove a fer servir com a màquina d’escriure electrònica es connecta a un televisor vell, a una gravadora de cintes de casset i a una impressora tèrmica.",
             "emoji": "1f4be",
             "italics": false,
@@ -453,6 +533,7 @@
         {
             "no": 50,
             "title": "Teràpia",
+            "untitled": false,
             "abstract": "L’addicció a l’escriptura ha estat inclosa en les classificacions de trastorns mentals de l'OMS i l'APA.",
             "emoji": "1fa7a",
             "italics": false,
@@ -462,6 +543,7 @@
         {
             "no": 51,
             "title": "Bugs",
+            "untitled": false,
             "abstract": "Grace B. M. Hopper, oficial de Marina i professora a Harvard, va ser la primera a identificar un insecte com a origen dels errors d'un ordinador.",
             "emoji": "1f41b",
             "italics": true,
@@ -471,6 +553,7 @@
         {
             "no": 52,
             "title": "Clark Nova",
+            "untitled": false,
             "abstract": "Mentre teclejava el text d'ahir, un representant de màquines d'escriure ensenyava a Rice el seu últim model.",
             "emoji": "2328",
             "italics": false,
@@ -480,6 +563,7 @@
         {
             "no": 53,
             "title": "Comptador de realitat",
+            "untitled": false,
             "abstract": "Havia comprat aquella andròmina a algú que assegurava haver treballat com a secretari de von Braun.",
             "emoji": "1f39b",
             "italics": false,
@@ -489,6 +573,7 @@
         {
             "no": 54,
             "title": "Una mòmia és una mòmia",
+            "untitled": false,
             "abstract": "Un exemplar, entenc, valuós, potser un indi Pennacook, tot i que el rictus i els parracs em suggerien més aviat una bubota.",
             "emoji": "26b0",
             "italics": false,
@@ -498,6 +583,7 @@
         {
             "no": 55,
             "title": "Die Grundlosigkeit",
+            "untitled": false,
             "abstract": "Li havien arribat reports de les excavacions de l’Institut Urusvati, en una vall als contraforts occidentals de l’Himàlaia. Un enclavament arqueològic d’una riquesa extraordinària.",
             "emoji": "1f6d5",
             "italics": true,
@@ -507,6 +593,7 @@
         {
             "no": 56,
             "title": "Com va guanyar Danvers una plaça a Miskatonic",
+            "untitled": false,
             "abstract": "L’havien ben ensarronat. El tutor va aparèixer al llindar al cap d’un lapse de temps que podia haver durat uns minuts o llarguíssimes hores.",
             "emoji": "1f58b",
             "italics": false,
@@ -516,6 +603,7 @@
         {
             "no": 57,
             "title": "Viatge a Espanya",
+            "untitled": false,
             "abstract": "Ateses les circumstàncies, era normal que s’estenguessin els rumors sobre delators o agents infiltrats. Danvers no va ser aliè a aquesta mena de sospites.",
             "emoji": "1f6c2",
             "italics": false,
@@ -525,6 +613,7 @@
         {
             "no": 58,
             "title": "I remember Spain",
+            "untitled": false,
             "abstract": "Va tornar a elogiar l’heroisme dels marines i es va vantar d’haver participat ell mateix en dues guerres: des d’un despatx, com a oficial d’intel·ligència.",
             "emoji": "1fa96",
             "italics": true,
@@ -534,6 +623,7 @@
         {
             "no": 59,
             "title": "Una eternitat",
+            "untitled": false,
             "abstract": "Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final.",
             "emoji": "1f9df",
             "italics": false,
@@ -543,6 +633,7 @@
         {
             "no": 60,
             "title": "Acció exterior",
+            "untitled": false,
             "abstract": "Tot just un dialecte, senyor —va reiterar el secretari del cònsol—. Un patuès xampurrejat per la pagesia.",
             "emoji": "1f4d5",
             "italics": false,
@@ -552,6 +643,7 @@
         {
             "no": 61,
             "title": "Adéu-siau",
+            "untitled": false,
             "abstract": "He lliurat el nou telegrama i he marxat amb una reverència mentre el conciliàbul s’informava.",
             "emoji": "2620",
             "italics": false,
@@ -561,6 +653,7 @@
         {
             "no": 62,
             "title": "Darrera defensa",
+            "untitled": false,
             "abstract": "La vaig veure al monestir de Strahov, en una petita Wunderkammer annexa a la Sala Filosòfica. Ella s’havia fixat sobretot en els llibres.",
             "emoji": "1f984",
             "italics": false,
@@ -570,15 +663,17 @@
         {
             "no": 63,
             "title": "Je ne sais pas si vous vous souvenez de moi",
+            "untitled": false,
             "abstract": "Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però he oblidat completament el seu cognom.",
             "emoji": "1fa9e",
-            "italics": false,
+            "italics": true,
             "text": "Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però he oblidat completament el seu cognom. El bloc de pisos on vivia ha sofert una certa degradació. La façana necessitaria una bona mà de pintura. I el pati que li donava un aire de Place des Vosges per a rendes modestes agrairia l’atenció d’un jardiner. He entrat al vestíbul. A la bústia que va ser seva —i de la seva amiga Clémentine— hi ha uns altres noms que han estat ratllats. Però sobretot volia donar una ullada a aquells dos ascensors, un més ampli del que era habitual i l’altre estranyament angost. Això sempre ens feia riure.\n\nÉs dilluns, acabe d’arribar a París i tinc la resta del matí lliure. Per què hi he vingut? De sobte, entre les males herbes del pati, em fa l’efecte que veig Valérie asseguda en un dels bancs de formigó, pàl·lida com una morta, amb un espill a la mà com si continués esperant l’unicorn. Aquesta visió m’espanta i haig de marxar tot d’una.\n\n(El seu cognom era Kléber.)",
             "date": "2018-12-29"
         },
         {
             "no": 64,
             "title": "Les ciutats perdudes",
+            "untitled": false,
             "abstract": "Acampàvem en tendes a la penombra del sotabosc, damunt d’un fang primordial. L’ambient era xafogós. De tot s’emparava la floridura.",
             "emoji": "1f3db",
             "italics": false,
@@ -588,11 +683,32 @@
         {
             "no": 65,
             "title": "Coda",
+            "untitled": false,
             "abstract": "No crec que ningú es molesti a comptar els caràcters de cadascuna —o de cap— d’aquestes proses.",
             "emoji": "",
             "italics": false,
             "text": "No crec que ningú es molesti a comptar els caràcters de cadascuna —o de cap— d’aquestes proses: si és que algú es molestava a llegir-les. Fora en va, per tant, aclarir que la memòria RAM lliure d’un ZX81 era a penes d’uns centenars de bytes; o que era ampliable fins a 64 KB; o que el codi ASCII ni tan sols era compatible amb les vocals accentuades del català; i que les codificacions més modernes, com l’UTF-8, dediquen més d’un octet a cadascun d’aquests caràcters *estranys*; etc., etc.\n\nFora en va, també, perquè aquest joc amb els nombres i els mots, que converteix l’escriptura en una mena de puzle o mecano, a la manera de la literatura potencial, només m’interessava a mi mentre escrivia. Els 1.024 caràcters conformaven el marc, la trava o constricció (*contrainte*): els límits autoimposats. Qui en llegís el resultat —si algú el llegia—, només caldria que jutgés —o, tant de bo, que gaudís— el resultat mateix. I el seu judici, conforme a la brevetat, hauria de ser ràpid, i la sentència executada a l’instant.",
             "date": "2018-12-31"
+        },
+        {
+            "no": 66,
+            "title": "Cloenda",
+            "untitled": true,
+            "abstract": "Stella Gibbons.",
+            "emoji": "",
+            "italics": false,
+            "text": "> Tots els horrors s’esvaïren amb l’edat  \n> com dimonis a les pàgines d’un missal.\n>\n> *—Stella Gibbons, *Westwood*.*",
+            "date": "2020-08-15"
+        },
+        {
+            "no": 67,
+            "title": "Portada original",
+            "untitled": true,
+            "abstract": "Imatge de la portada original, en blanc i negre i baixa resolució.",
+            "emoji": "",
+            "italics": false,
+            "text": "![Portada original](cover-bw.jpg)",
+            "date": "2020-08-15"
         }
     ]
 }
