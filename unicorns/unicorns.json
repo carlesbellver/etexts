@@ -1,5 +1,5 @@
 {
-    "metadata": {
+    "book": {
         "title": "Unicorns",
         "subtitle": "Improvisacions en 1.024 caràcters",
         "author": "Carles Bellver Torlà",
@@ -7,7 +7,7 @@
         "rights": "CC-BY-NC",
         "lang": "ca",
         "description": "Els textos que componen aquest recull van ser redactats l’estiu de 1992 a la Miskatonic University (estada d’investigació sufragada per una beca de la Pickman Foundation). Els vaig teclejar amb un ordinador Sinclair ZX81, relíquia tecnològica contemporània del primer IBM PC, però molt més rudimentària. Misteriosament, no disposaven de cap equip actual per provar *“The effects of the word processor in writing”*…",
-        "bannerweb": "<a href=\"https://fr.wikipedia.org/wiki/La_Dame_%C3%A0_la_licorne\"><img class=\"u-max-full-width\" alt=\"La Dame &agrave; la licorne - detall - Museu de Cluny\" src=\"lady-unicorn_800x290web.jpg\"></a>"
+        "banner": "<a href=\"https://fr.wikipedia.org/wiki/La_Dame_%C3%A0_la_licorne\"><img class=\"u-max-full-width\" alt=\"La Dame &agrave; la licorne - detall - Museu de Cluny\" src=\"lady-unicorn_800x290web.jpg\"></a>"
     },
     "chapters": [
         {
