@@ -1,0 +1,18 @@
+max 1200
+aspect 2x3
+crop true
+cropgravity west
+background lady-unicorn.jpg
+pixelate 1
+blur 1
+marginx 0
+marginy 6
+padding 1
+bgcolor black
+byfont Unna-Italic.ttf
+byfontsize 8
+font Unna-Regular.ttf
+fontsize 16
+byline Carles Bellver Torlà
+caption Unicorns
+save unicorns8b.jpg

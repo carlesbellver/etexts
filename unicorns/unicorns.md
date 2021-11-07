@@ -50,7 +50,7 @@ Ch. B.
 
 # Hi ha unicorns?
 
-<img class="emoji" src="web/twemoji/2615.svg">
+<img class="emoji" src="web/twemoji/2615.svg" />
 
 La vaig conèixer en una sala d’estudi de l’antiga Facultat de Lletres de la Universitat de París. Ens vam mirar i al cap d’un minut em vaig adonar que eixia. Va ser una conversa breu, una mica incòmoda i tendra. Bevíem glops d’un cafè de màquina que pareixia verinós.
 
@@ -60,7 +60,7 @@ Al vespre vaig anar a buscar-la. La seva companya de pis em va comunicar que no 
 
 # *L’enfer, c’est les autres*
 
-<img class="emoji" src="web/twemoji/1f6ae.svg">
+<img class="emoji" src="web/twemoji/1f6ae.svg" />
 
 Els cabells esbullats, els llavis pintats i un gran somriure. Feia vent, aquell matí. Aquesta foto seva, una mica borrosa, l’única que tenia i que vaig donar per perduda, va lliscar entre els fulls d’un llibre que no m’havia sabut gens greu prestar-li. La va examinar amb interès i em va demanar qui era.
 
@@ -76,7 +76,7 @@ I bé, doncs, continuem.
 
 # La presència del mal
 
-<img class="emoji" src="web/twemoji/1f525.svg">
+<img class="emoji" src="web/twemoji/1f525.svg" />
 
 L’alcohol etílic és, segons els llibres de text, dissolvent, combustible i psicoactiu. Qualsevol d’aquestes propietats valdria per explicar, amb rigor científic variable, que se m’hagi malmès —dissolt, incendiat, trastocat— la memòria d’aquells pocs anys en què vaig consumir-ne més assíduament.
 
@@ -86,7 +86,7 @@ No puc saber amb seguretat quina d’aquestes dues persones sóc. No voldria sab
 
 # Llegendes urbanes
 
-<img class="emoji" src="web/twemoji/2604.svg">
+<img class="emoji" src="web/twemoji/2604.svg" />
 
 Hi havia dubtes, o més aviat versions diferents, sobre l’origen de la contaminació: podia ser un fragment del meteorit que va caure prop d’Arkham l’any 1882 —el que va desaparèixer del Museu de Ciències Naturals mentre la universitat romangué tancada, durant la caça de bruixes—, o el tros de motlura d’una balustrada que Walter Gilman, estudiant de matemàtiques, va trobar al seu llit —després d’un somni en què s’havia sentit transportat en un altre món— i que ningú més no havia vist mai. Fos el que fos, algú va enviar-ho per correu a un professor de Miskatonic i aquest va morir de manera fulminant en obrir el paquet. Ningú no sabia el nom del professor, ni a quin departament pertanyia, però pareixia que tothom conegués algú que tenia un amic que n’havia estat alumne, anys enrere.
 
@@ -94,7 +94,7 @@ Fins i tot, es deia, més endavant havia mort també el funcionari que va gestio
 
 # El cau de la bèstia
 
-<img class="emoji" src="web/twemoji/1f577.svg">
+<img class="emoji" src="web/twemoji/1f577.svg" />
 
 —El baró de Rothschild circulava per Londres en un cotxe tirat per zebres. A Boston vaig veure una senyora que passejava un porc negre d’allò més bufó. I hem llegit que la policia de Nova York ha detingut un pintor bohemi, al Village, per espantar els veïns amb el seu cocodril.
 
@@ -118,7 +118,7 @@ Fins i tot, es deia, més endavant havia mort també el funcionari que va gestio
 
 # A l’oficina de correus
 
-<img class="emoji" src="web/twemoji/1f3e4.svg">
+<img class="emoji" src="web/twemoji/1f3e4.svg" />
 
 S’apropava l’hora de tancar i la cua avançava amb lentitud exasperant, però no podia deixar l’enviament per a l’endemà perquè no estava segur que les còpies arribessin a temps, i llavors em podien retirar la beca. Era una d’aquestes ocasions en què sents que la burocràcia i l’univers conspiren contra tu. No es tracta, és clar, de cap mena de pensament racional.
 
@@ -130,7 +130,7 @@ Warren, més tard, m’ha aclarit el cas.
 
 # Notes per a la memòria final de la beca
 
-<img class="emoji" src="web/twemoji/1f37e.svg">
+<img class="emoji" src="web/twemoji/1f37e.svg" />
 
 Un dels moments crítics en la història de la Miskatonic University seria sens dubte la seva clausura el dilluns 7 de juliol de 1958, just quan, paradoxalment, la voràgine maccarthista arribava a la seva fi. Bona part del professorat va patir presó preventiva, llargues i feixugues investigacions i la prohibició temporal de treballar en cap altra institució educativa.
 
@@ -140,7 +140,7 @@ L’activitat acadèmica es va reprendre a mitjan anys seixanta. Primer de forma
 
 # Un drac
 
-<img class="emoji" src="web/twemoji/1f409.svg">
+<img class="emoji" src="web/twemoji/1f409.svg" />
 
 La seva tesi doctoral versava sobre l’estada de Bertrand Russell a la Universitat de Pequín. M’ho explicava a la seva biblioteca, mentre jo fullejava una primera edició de *The Analysis of Mind* (Allen & Unwin, 1921), excel·lentment conservada, i assaboria la copa de *scotch* que m’havia ofert. Ell, tanmateix, preferia com sempre el vi de Porto.
 
@@ -152,7 +152,7 @@ Per la finestra, al lluny, volava un drac fent giragonses. Aquesta escena, però
 
 # Jo era d’anís
 
-<img class="emoji" src="web/twemoji/1f6ac.svg">
+<img class="emoji" src="web/twemoji/1f6ac.svg" />
 
 M’enviaven al bar de baix amb els diners comptats i jo pujava amb les dues botelles —perquè n’hi havia que eren de conyac i n’hi havia que eren d’anís— i el cartó de tabac americà. Elles m’ho regraciaven amb un gotet —jo era d’anís— i una nova tanda d’històries: variacions sobre els tràngols que havien passat i els viaranys pels quals van pervenir en aquell casalot del carreró, el mateix en què d’un temps ençà residia jo també.
 
@@ -162,7 +162,7 @@ Tot d’una, un truc a la porta ens interrompia. Esperàvem a saber a quina crid
 
 # Eudoxia era rossa i es pentinava amb llargues trenes
 
-<img class="emoji" src="web/twemoji/1f37a.svg">
+<img class="emoji" src="web/twemoji/1f37a.svg" />
 
 Em va demanar què pensava d’ella. Li vaig dir que era rossa, apassionada i irreflexiva. Era evident que no m’ho hauria d’haver preguntat i jo no li hauria d’haver contestat. Qualsevol altre dia no hauria emprat aquests adjectius per definir-la. Hauria procurat no fer mal a ningú amb l’elecció de les paraules.
 
@@ -176,7 +176,7 @@ Tenia raó. No hauria de parlar del que no entenc. No solc fer-ho. I, tanmateix,
 
 # *Do you long for her, or for the way you were?*
 
-<img class="emoji" src="web/twemoji/1f3b5.svg">
+<img class="emoji" src="web/twemoji/1f3b5.svg" />
 
 Per comptes de viatge de final de curs, vam passar un cap de setmana al xalet dels pares d’un company que, ells sí, eren a l’estranger i no s’havien d’assabentar de l’ús que fèiem de la seva segona residència. Jo era més gran que els altres i guardava certes distàncies. La darrera nit vam escoltar elapés de Llach, de Leonard Cohen i de Jonathan Richman, mentre un dormitori romania ocupat i ella s’havia assegut davant de l’Olivetti, indiferent a les protestes pel soroll del tecleig.
 
@@ -188,7 +188,7 @@ Quan ens creuem, encara intercanviem salutacions i educats somriures.
 
 # Manual d’instruccions
 
-<img class="emoji" src="web/twemoji/1f5c4.svg">
+<img class="emoji" src="web/twemoji/1f5c4.svg" />
 
 Quan tenia tretze anys, em vaig passar l’estiu reclòs a la biblioteca municipal. Les primeres setmanes, les enciclopèdies van calmar —sense assaciar-la— la meva curiositat intel·lectual. I després, quin buit a l’ànima —o entre l’estómac i el pit, on la posaven els grecs— quan vaig haver enllestit cada tom, per ordre, de la A a la Z. Va ser amb disgust i amb mandra —a falta de res millor— que vaig emprendre el prestatge de les novel·les. Per a sorpresa meva, abans d’arribar a Camus ja començava a albirar, com una revelació, que tenia davant dels ulls l’anhelat manual d’instruccions, la clau amb què desxifrar el què, el perquè i la resta d’interrogants sobre la gent que m’envoltava: tots els misteris que fins aleshores m’havien estat vedats.
 
@@ -198,7 +198,7 @@ Quan tenia tretze anys, em vaig passar l’estiu reclòs a la biblioteca municip
 
 # *Logisch-Philosophische Abhandlung*
 
-<img class="emoji" src="web/twemoji/1f3eb.svg">
+<img class="emoji" src="web/twemoji/1f3eb.svg" />
 
 Aquest deu ser l’únic departament de filosofia del món en què es comença l’estudi del *Tractatus* pel final. És a dir, per la carta de Wittgenstein a Ludwig von Ficker, en què declarava que el sentit de l’obra és ètic i que la part més important és la que no podia escriure.
 
@@ -210,7 +210,7 @@ No va ser res més que un pensament dit en veu alta, un exabrupte. Però, com si
 
 # *L’ultimo appello è da dimenticare*
 
-<img class="emoji" src="web/twemoji/1f5e1.svg">
+<img class="emoji" src="web/twemoji/1f5e1.svg" />
 
 Era dia de festa major. Marieta i Fabrizio em van presentar a les autoritats locals com a *professore*: el poble italià és respectuós amb els tributs acadèmics, i justament per això em va saber greu, atès que jo no he passat mai de becari. La recepció oficial se celebrava a la planta baixa de l’ajuntament. Per no saber dir que no, vaig acabar involucrat en la representació d’una escena medieval. No n’entenia la trama, però vaig assumir el meu paper. En una cambra tancada, dos homes d’aire taciturn em van ensenyar l’ús del punyal retràctil amb què simularia la mort de l’emissari d’un senyoriu rival.
 
@@ -218,7 +218,7 @@ En arribar el moment, les coloraines de robes i banderoles, el rebombori, els es
 
 # *Das Schnurren*
 
-<img class="emoji" src="web/twemoji/1f408.svg">
+<img class="emoji" src="web/twemoji/1f408.svg" />
 
 Vaig guanyar el premi de narrativa amb un recull inspirat en l’estada al psiquiàtric, però ara trobe que *La vida canina* és un títol massa subtil: ningú no podrà evitar que el llibre, quan es publiqui, vagi a parar a la secció d’animals de companyia.
 
@@ -226,7 +226,7 @@ Aquesta nit he somniat que anava a la Fira de Frankfurt —en substitució d’a
 
 # El futur del món
 
-<img class="emoji" src="web/twemoji/1f3bb.svg">
+<img class="emoji" src="web/twemoji/1f3bb.svg" />
 
 Era l’única dona que assistia a la recepció i l’única que he vist mai al campus. Abans, entre els vells, m’havia paregut una xiqueta de tretze o catorze anys, possiblement la neta d’alguna eminència xaruga. Ara li’n faria tres o quatre més, prou per ser al primer curs d’universitat. Si no ací, potser a Harvard o a Brown.
 
@@ -236,7 +236,7 @@ Avui m’he despertat amb migranya. No recorde res del que em va dir, només la 
 
 # Dades sobre la localització de l’altiplà de Leng
 
-<img class="emoji" src="web/twemoji/1f5fa.svg">
+<img class="emoji" src="web/twemoji/1f5fa.svg" />
 
 Estudiaven un informe de l’Oficina de Serveis Estratègics que havia estat part de l’arxiu Danvers. Vint i tants fulls mecanografiats, més una extensió similar d’esbossos de mapes. Era material original, autenticat. Portava segell de febrer de 1945. L’autor —identificat amb un codi— despatxava a correcuita la “hipòtesi antàrtica” per discutir *in extenso* diverses opcions a l’Àsia Central, en un arc traçat des de la vall del Caixmir fins als deserts de sorra i de glaç de Mongòlia.
 
@@ -244,7 +244,7 @@ Pensava que aquest era un debat ja resolt. Una vegada em van contar que algú ha
 
 # *Ghosting*
 
-<img class="emoji" src="web/twemoji/1f47b.svg">
+<img class="emoji" src="web/twemoji/1f47b.svg" />
 
 La figura de Lovecraft —escriptor de Providence que va donar tractament de ficció a la Miskatonic University i a les més agosarades de les seves proeses científiques— ha projectat per molts anys l’ombra del dubte sobre aquest campus menor de l’Ivy League. Per al gran públic, Arkham i el seu *college* serien tan quimèrics com Yoknapatawpha o Macondo, i les amenaces soterrades al glaç antàrtic, o en impossibles records primordials, res més que divertiments ancorats en fantasies teosòfiques i psicodèliques.
 
@@ -252,7 +252,7 @@ Millor així, accepten Armitage i companyia. Millor la ignorància de la plebs q
 
 # *Rue d’Auseil*
 
-<img class="emoji" src="web/twemoji/1f693.svg">
+<img class="emoji" src="web/twemoji/1f693.svg" />
 
 L’autor d’aquells diabòlics poemes en prosa era un misteriós personatge que treballava per a l’ambaixada nord-americana. El tiratge, escàs, es va difondre als cercles habituals, fins que algú es va esquinçar les vestidures. Es van aixecar sospites sobre l’autenticitat d’algunes escenes i sobre la identitat dels subjectes implicats. Jenkin va tocar el dos, mentre que el seu traductor francès, aclaparat per l’oprobi, es va suïcidar.
 
@@ -262,7 +262,7 @@ Entretant, al pis de dalt sonava una música que pareixia d’un altre món.
 
 # Records del Tibet
 
-<img class="emoji" src="web/twemoji/1f3d4.svg">
+<img class="emoji" src="web/twemoji/1f3d4.svg" />
 
 Wernher von Braun va ser reclutat per l’exèrcit nord-americà i va impulsar el programa espacial de la NASA, però els lames tibetans que els nazis s’havien emportat a Berlín van ser captats per la Miskatonic University —mercès a les gestions discretes de Randolph Carter, que treballava aleshores a l’Oficina de Serveis Estratègics—, amb la intenció que dirigissin una altra mena de travessia, no cap a l’espai exterior sinó cap al cosmos interior de la ment humana.
 
@@ -272,7 +272,7 @@ He pogut comprovar, en tot cas, que perdura al campus el record del seu magister
 
 # Gramàtica teòrica
 
-<img class="emoji" src="web/twemoji/1f4d4.svg">
+<img class="emoji" src="web/twemoji/1f4d4.svg" />
 
 —T’ensenyaré un llenguatge secret.
 
@@ -292,7 +292,7 @@ Amb els anys vaig entendre que l’aklo només servia per a invocar el dimoni.
 
 # El malson de debò és aquest
 
-<img class="emoji" src="web/twemoji/1f9b7.svg">
+<img class="emoji" src="web/twemoji/1f9b7.svg" />
 
 Una nit vaig somniar que li implorava que em perdonés i ella es mofava de mi. Taral·lejava una cançoneta, feia una cabriola i em clavava les dents a la mà. Però tornar a veure la seva cara llampant em va causar una impressió molt més forta que la mossegada.
 
@@ -304,7 +304,7 @@ Recorde que una vegada em va dir que si ho somniaves ja no passava.
 
 # Bibliografia
 
-<img class="emoji" src="web/twemoji/269b.svg">
+<img class="emoji" src="web/twemoji/269b.svg" />
 
 Examinàvem sota el flexo la seva darrera adquisició: un exemplar d’*Il newtonianismo per le dame*, col·lecció de diàlegs amb què el savi venecià Francesco Algarotti va contribuir a divulgar la *Philosophiæ naturalis* d’Isaac Newton. A mi em feia recordar, és clar, les lliçons epistolars de Leibniz a Sophie de Hannover i a la seva filla Sophie-Charlotte, publicades recentment sota el títol *Filosofia per a princeses*.
 
@@ -314,7 +314,7 @@ Són tots, en efecte, vells, i cap dona forma part del claustre d’aquesta vene
 
 # Tornar a Paracels
 
-<img class="emoji" src="web/twemoji/2697.svg">
+<img class="emoji" src="web/twemoji/2697.svg" />
 
 —Una errada en la numeració de les pàgines feia que paregués que en faltaven un parell. Van córrer rumors sobre el contingut censurat, eliminat a darrera hora amb el manual eixint d’impremta.
 
@@ -334,7 +334,7 @@ Són tots, en efecte, vells, i cap dona forma part del claustre d’aquesta vene
 
 # Contra els escèptics
 
-<img class="emoji" src="web/twemoji/1f4e6.svg">
+<img class="emoji" src="web/twemoji/1f4e6.svg" />
 
 M’explicava el concepte tibetà de *tulpa*: la capacitat de crear objectes —o éssers vius, fins i tot humans— amb l’energia de la ment. Jo me’n reia.
 
@@ -350,7 +350,7 @@ Em trobava tan alterat que vaig necessitar tres intents.
 
 # INS
 
-<img class="emoji" src="web/twemoji/1f3e2.svg">
+<img class="emoji" src="web/twemoji/1f3e2.svg" />
 
 Hi havia una oficina del Servei d’Immigració i Naturalització dins del campus. Danvers va fer per tranquil·litzar-me. La recerca que s’havia engegat, em va assegurar, seria merament rutinària. Sospitava que algun company de departament havia denunciat la desaparició del seu criat només per fer-li la guitza. Sobretot, va insistir, no esmentis l’assumpte de la caixa.
 
@@ -358,7 +358,7 @@ Amb mi, l’oficial es va mostrar més aviat displicent. Va dedicar més temps a
 
 # Les mars del sud
 
-<img class="emoji" src="web/twemoji/1f9dc.svg">
+<img class="emoji" src="web/twemoji/1f9dc.svg" />
 
 En el meu primer dia lliure, vaig planejar una excursió en tren per la rodalia d’Arkham. L’únic episodi remarcable d’aquesta breu escapada s’esdevingué a Innsmouth. El museu d’història estava dedicat sobretot a un orde maçònic local, però el seu tresor més preat eren uns exemplars d’un mamífer marí, originari de la Polinèsia i radicat allí arran del comerç del segle XIX.
 
@@ -368,7 +368,7 @@ Em va fer pensar en sirenes i en manatís. Però allò era pitjor. Molt més sin
 
 # *Et date illi honorem*
 
-<img class="emoji" src="web/twemoji/1f30c.svg">
+<img class="emoji" src="web/twemoji/1f30c.svg" />
 
 Eixint de l’estació, el company de viatge irlandès es va deixar caure de genolls a terra davant meu i el vaig rodejar, però en adonar-me que assenyalava amb l’índex el cel fosc, vaig alçar el cap jo també per admirar plegats la visió del caos estenent-se pel firmament. Un caos reptant que infectava l’ordre incipient de les constel·lacions i impedia que prosperés aquell cosmos embrionari, migrat, que hem cregut copsar des dels pitagòrics i des d’abans dels pitagòrics, des dels astrònoms egipcis i babilònics si més no. Un cosmos que ara, en aquest instant prodigiós, se’ns revelava com un engany: una mentida piadosa, una il·lusió infantil.
 
@@ -376,7 +376,7 @@ Eixint de l’estació, el company de viatge irlandès es va deixar caure de gen
 
 # Un ornitorrinc a l’armari
 
-<img class="emoji" src="web/twemoji/1f52c.svg">
+<img class="emoji" src="web/twemoji/1f52c.svg" />
 
 La companya de pis de Valérie —no li agradava que li digués *només* Valérie: massa concís, massa ordinari, massa jo?— tenia una amiga que estudiava psicologia. Una vegada els va deixar un test d’empatia i me’l van fer emplenar amb elles. Una altra vegada va ser una prova per a detectar risc de depressió. La lletra menuda em suggerí buscar ajuda: no hi hauria pensat mai. S’ho passaven bomba fent conya amb les meves respostes i els meus resultats. Va esdevenir un costum, una distracció fàcil i barata. Els vaig dir que era una llàstima que la seva amiga no fos biòloga. Si em practiquessin una anàlisi d’ADN, descobririen, posem per cas, que tenia el codi genètic d’un ornitorrinc. No se’m va acudir cap animal més rar. Els vaig fer riure. No m’havien pres mai molt seriosament.
 
@@ -384,7 +384,7 @@ Però la nostra relació s’estava tibant. Havia fumat haixix i vaig dir-li *Va
 
 # Sòsia
 
-<img class="emoji" src="web/twemoji/1f377.svg">
+<img class="emoji" src="web/twemoji/1f377.svg" />
 
 Em vaig demanar si era possible que s’assemblessin tant i que no fossin la mateixa persona. Però, alhora, no tenia cap dubte que era una altra, gairebé oposada: els cabells més curts, més parisencs, la manera de vestir, més informal, i, sobretot, la desimboltura bohèmia, la mancança d’afectació aristocràtica. Jo havia begut i fumat. Sentia una audàcia i una agilitat verbal segurament infundades. No em va sorprendre prou que em permetés acompanyar-la a casa seva. En la fosca intimitat dels seus llençols, em vaig convèncer que qualsevol semblança havia estat un miratge.
 
@@ -392,7 +392,7 @@ A la matinada, després d’un seguit de malsons, em vaig despertar amb un ensur
 
 # *Longer distance calling*
 
-<img class="emoji" src="web/twemoji/1f4de.svg">
+<img class="emoji" src="web/twemoji/1f4de.svg" />
 
 —Setembre de 1926. Un any abans que AT&T inauguri la connexió transatlàntica amb Londres, un mes abans que Houdini mori d’una peritonitis i al mateix temps que Lovecraft començava a escriure *La crida de Cthulhu* a la seva casa de Providence, on s’havia tornat a instal·lar, un emprenedor anònim va obrir a Nova York un servei telefònic de comunicació amb el més enllà. “Torneu a escoltar la seva veu”, incitava la publicitat. “Seguiu parlant amb els vostres éssers estimats”. Les tarifes eren elevades. L’èxit va ser rotund en ambients de classe alta.
 
@@ -402,7 +402,7 @@ A la matinada, després d’un seguit de malsons, em vaig despertar amb un ensur
 
 # *Reverse-charge call*
 
-<img class="emoji" src="web/twemoji/26a1.svg">
+<img class="emoji" src="web/twemoji/26a1.svg" />
 
 Una vesprada d’estiu, un llamp va esquinçar de cap a cap el cel clar damunt de Harlem. Va sonar el telèfon i Bess va contestar. Digueu?
 
@@ -418,7 +418,7 @@ A l’altre extrem, ara lluïa un riure sardònic el mateix cavaller alt, bru, q
 
 # *Nomen sacrum*
 
-<img class="emoji" src="web/twemoji/1f520.svg">
+<img class="emoji" src="web/twemoji/1f520.svg" />
 
 *Years and years* eren els mots finals que m’havien quedat gravats quan em vaig tornar a despertar.
 Anys i anys, em repetia mentre em desensonyava, sense saber ja si feia referència al seu llarg sojorn al món o al temps que havia dedicat a encalçar-me.
@@ -434,7 +434,7 @@ Però reconec —per més que em faci vergonya— que ara no gosaria dir-lo en v
 
 # Primer conte de fades
 
-<img class="emoji" src="web/twemoji/1f6f3.svg">
+<img class="emoji" src="web/twemoji/1f6f3.svg" />
 
 Quan va complir divuit anys, els amics li van regalar una esclava: mulata, esvelta, els cabells tallats curts com un noiet. La van fer desfilar cap a ell entre els convidats, gairebé nua, lligada amb una corretja ben cenyida al coll. Li van dir entre rialles: és teva, pots fer-li el que vulguis. I això va fer, a partir d’aquella nit.
 
@@ -444,7 +444,7 @@ A l’abril, amb el canvi d’estació, es va sentir deprimit i se la va emporta
 
 # Segon conte de fades
 
-<img class="emoji" src="web/twemoji/1f3d7.svg">
+<img class="emoji" src="web/twemoji/1f3d7.svg" />
 
 Eufrosina, no van saber com, es va quedar el negoci. Era més gran que les altres i tenia fama de bruixa. Deien que sabia fabricar or. O que havia trobat monedes antigues dins d’una olla. Un misteri tan gran, doncs, com la desaparició del Quim, el seu proxeneta. Però estaven acostumades que els passessin coses inexplicables.
 
@@ -454,7 +454,7 @@ Vivien un somni autogestionari que només va durar un trimestre. Al setembre van
 
 # Fins que la mort ens separi, xaval
 
-<img class="emoji" src="web/twemoji/270d.svg">
+<img class="emoji" src="web/twemoji/270d.svg" />
 
 Tot just una frase —set mots— en un tros de paper estripat i rebregat. El fet que no entengués l’idioma, li suposava algun problema? Em va contestar que no, que ell desxifrava símbols universals, inherents a l’escriptura.
 
@@ -466,7 +466,7 @@ Vaig veure com suava. Em va demanar que marxés i que m’emportés la nota. No 
 
 # La història secreta del món
 
-<img class="emoji" src="web/twemoji/1f573.svg">
+<img class="emoji" src="web/twemoji/1f573.svg" />
 
 S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 
@@ -482,7 +482,7 @@ S’havien acabat les diapositives i ningú no es decidia a parlar-ne.
 
 # Un farsant
 
-<img class="emoji" src="web/twemoji/1f52d.svg">
+<img class="emoji" src="web/twemoji/1f52d.svg" />
 
 —Els mapes de Schiaparelli van ser una temptativa notable, però la millor cartografia de Mart continua sent aquesta. I les imatges de la sonda Viking no han fet més que confirmar-ho.
 
@@ -500,7 +500,7 @@ Vaig observar els noms a la carpeta: Sagan i Hoagland. I la data: juny de 1958. 
 
 # *Wishful thinking*
 
-<img class="emoji" src="web/twemoji/1f30a.svg">
+<img class="emoji" src="web/twemoji/1f30a.svg" />
 
 Es deia Asenath i els seus ulls massa clars, lleugerament sortints, no parpellejaven mai. Era, evidentment, oceanògrafa. Havia deixat enrere els quaranta anys, però per als estàndards de Miskatonic comptava com una jove promesa. Defensava teories poc ortodoxes —que havien tingut cert ressò— sobre les estructures submarines de Y’ha-nthlei, i el consell d’ancians local volia veure-hi la seva empremta intel·lectual. Una oportunitat de renovació: l’esperança d’un impossible *aggiornamento*. Una vegada més, confonien desigs amb realitat. La conferència degué decebre’ls horriblement.
 
@@ -512,7 +512,7 @@ La meva beca, vaig tranquil·litzar-la, no durarà gaire. Però no vaig gosar co
 
 # Materials de construcció
 
-<img class="emoji" src="web/twemoji/1f9f1.svg">
+<img class="emoji" src="web/twemoji/1f9f1.svg" />
 
 Ens van ensenyar els fragments de les restes del Gran Desert Arenós. Pareixien enderrocs. Més tard, Ismael diria que eren, exactament, això, i que probablement algú els havia enganyat. Atwood va explicar que n’havien sotmès una mostra a la mateixa tècnica de datació radiomètrica amb què s’havia determinat l’edat de la Terra en 4.540 milions d’anys, i que el resultat havia estat sorprenent i desconcertant, perquè aquelles cambres cúbiques i els rectes passadissos haurien de ser, com a mínim, centenars de milions d’anys més vells que el nostre planeta.
 
@@ -524,7 +524,7 @@ Era tan gran la seva fe en la ciència, i en ells mateixos, que descartaven per 
 
 # Segon Congrés de Futurologia
 
-<img class="emoji" src="web/twemoji/1f3e8.svg">
+<img class="emoji" src="web/twemoji/1f3e8.svg" />
 
 Les intervencions de N. M. —àlies Irina, del grec *eirēnē*: pau— en els debats del primer Congrés de Futurologia, a Balaklava, van fer inexcusable la seva participació en el segon, un any després a Dubrovnik. Doctora en matemàtiques per la Universitat de Moscou, i en psicologia per l’Institut Pavlov de Leningrad, dirigia des de feia poc el laboratori d’exobiologia de la base secreta в/ч 26266.
 
@@ -534,7 +534,7 @@ Quan aquests fets, inevitablement, transcendiren, comportaren la caiguda en desg
 
 # Permuta
 
-<img class="emoji" src="web/twemoji/1f504.svg">
+<img class="emoji" src="web/twemoji/1f504.svg" />
 
 Eixint d’una cefalea aguda i un malson de túnels, es va despertar en l’entrellum d’una estança desconeguda. A poc a poc va començar a recordar el viatge, la costa adriàtica, la cafeteria de l’hotel i la fredor de l’espia. Estava assegut i la torpor el paralitzava. Per un moment va pensar que es contemplava en un espill, però l’espill era més avall, sobre la taula, i reflectia la imatge d’ella. Acotant el cap, es va mirar, atònit.
 
@@ -546,7 +546,7 @@ Anticipava, més que mai, una difícil negociació.
 
 # El triangle
 
-<img class="emoji" src="web/twemoji/26a0.svg">
+<img class="emoji" src="web/twemoji/26a0.svg" />
 
 Acabava d’unir-se al laboratori quan s’hi va trobar amb Ismaïl, el cosmonauta d’origen bordurià, peó de l’estratègia d’internacionalització del Kremlin. Van coincidir en una demostració de la unitat de robòtica. Mentre el giny de múltiples potes es desplaçava pel terra com una aranya, Irina es va adonar que algú l’observava a ella. Els seus ulls es van creuar amb els ulls d’ell, la primera vegada de moltes. Però ambdós van ser conscients aleshores que els traspassava l’esguard inquisitiu d’Ivan Istotxnikov, que arribaria a coronel i es perdria a l’espai, anys enllà, pilotant la Soyuz 2. Irina i Ivan es van conèixer quan eren menuts, en ser evacuats a Kazan, i no s’havien tornat a veure des de la guerra.
 
@@ -554,7 +554,7 @@ En aquell instant, sense que ho sabessin encara, s’estava definint la geometri
 
 # *Le diable me suit de jour et de nuit car il a peur d’être seul*
 
-<img class="emoji" src="web/twemoji/1f479.svg">
+<img class="emoji" src="web/twemoji/1f479.svg" />
 
 M’inspirava un tendre amor platònic, però el torrent dels somnis, brusc i impetuós, tendia a ser d’un to molt més lúbric que els meus sentiments.
 
@@ -570,7 +570,7 @@ El ressol del vespre m’enlluernava. No sabia on mirar. Ell les mirava a elles 
 
 # *Amour fou*
 
-<img class="emoji" src="web/twemoji/1f942.svg">
+<img class="emoji" src="web/twemoji/1f942.svg" />
 
 —Declare per endavant la meva ineptitud per a entendre els rituals d’aparellament humans. Així que tot el que en pugui dir s’hauria de posar entre parèntesis.
 
@@ -594,7 +594,7 @@ El ressol del vespre m’enlluernava. No sabia on mirar. Ell les mirava a elles 
 
 # Empori celestial
 
-<img class="emoji" src="web/twemoji/1f4da.svg">
+<img class="emoji" src="web/twemoji/1f4da.svg" />
 
 —El llibre era, no en tingueu cap dubte, aquell famós *Empori celestial de coneixements benèvols* que tants rius de tinta ha fet córrer.
 
@@ -620,7 +620,7 @@ El ressol del vespre m’enlluernava. No sabia on mirar. Ell les mirava a elles 
 
 # La pell pintada
 
-<img class="emoji" src="web/twemoji/1f58c.svg">
+<img class="emoji" src="web/twemoji/1f58c.svg" />
 
 Abans de marxar em va explicar un altre conte xinès recollit per Kuhn. En una província al sud del riu Groc, un ric comerciant va comprar una esclava nova per fer-li de concubina. Era jove i submisa, però l’endemà, per alguna raó, va desobeir l’ordre de no abandonar la seva cambra i va fer un descobriment espaterrant. Al taller, un dimoni pintava amb un pinzell molt fi una pell humana estesa damunt d’un bastidor. Minuciosament hi perfilava els ulls, la boca, el nas, els mugrons, el melic… Aterrida, ho observava pel badall de la porta. Quan es va adonar que eren els trets del seu amo, no va poder evitar d’amollar un crit. Enmig d’un greu tumult, els criats van aconseguir retenir la bèstia amb bastons i una forca fins que s’hi va presentar un destacament armat.
 
@@ -632,7 +632,7 @@ Abans de marxar em va explicar un altre conte xinès recollit per Kuhn. En una p
 
 # Creuer pel Yann
 
-<img class="emoji" src="web/twemoji/1f9f3.svg">
+<img class="emoji" src="web/twemoji/1f9f3.svg" />
 
 No sóc gens afeccionat a viatjar —malgrat que aquesta vegada hagi travessat l’Atlàntic—, però l’anunci en aquell aparador va fer que m’hi aturés.
 
@@ -646,7 +646,7 @@ Però l’embruix era efímer. Es mostrava com era quan em va cridar amb els bra
 
 # Arqueologia informàtica
 
-<img class="emoji" src="web/twemoji/1f4be.svg">
+<img class="emoji" src="web/twemoji/1f4be.svg" />
 
 Aquest tros de plàstic que prove a fer servir com a màquina d’escriure electrònica es connecta a un televisor vell, menut, on esforçant-me puc veure què teclege, a una gravadora de cintes de casset, on se suposa que s’arxiven els textos, i a una impressora tèrmica que només funciona els dies senars.
 
@@ -658,7 +658,7 @@ He explicat el descobriment a Ismael, becari veterà, que en sabia altres coses 
 
 # Teràpia
 
-<img class="emoji" src="web/twemoji/1fa7a.svg">
+<img class="emoji" src="web/twemoji/1fa7a.svg" />
 
 —Continues escrivint?
 
@@ -682,7 +682,7 @@ Es va estarrufar.
 
 # *Bugs*
 
-<img class="emoji" src="web/twemoji/1f41b.svg">
+<img class="emoji" src="web/twemoji/1f41b.svg" />
 
 —Grace B. M. Hopper, oficial de marina i professora a Harvard, va ser la primera a identificar un insecte com a origen dels errors d’un ordinador. L’arna que pertorbava el funcionament del Mark II es conserva al Naval Surface Warfare Center de Dahlgren, Virgínia.
 
@@ -698,7 +698,7 @@ Es va estarrufar.
 
 # Clark Nova
 
-<img class="emoji" src="web/twemoji/2328.svg">
+<img class="emoji" src="web/twemoji/2328.svg" />
 
 Mentre teclejava el text d’ahir, un representant de màquines d’escriure ensenyava a Rice el seu últim model.
 
@@ -712,7 +712,7 @@ A la nit no podia dormir. Sentia que algú m’observava. Em vaig alçar i em va
 
 # Comptador de realitat
 
-<img class="emoji" src="web/twemoji/1f39b.svg">
+<img class="emoji" src="web/twemoji/1f39b.svg" />
 
 Havia comprat aquella andròmina a algú que assegurava haver treballat com a secretari de Von Braun i que l’oferia, entre d’altres *souvenirs* o *memorabilia*, per un preu elevadíssim. Ningú sabia del cert com funcionava. Se suposava que era un instrument que procedia de l’Alemanya nazi, d’aquell període en què va florir una ciència estranya, amb aplicacions insòlites i cruels.
 
@@ -726,7 +726,7 @@ Vaig fer petar els dits diverses vegades. Fins i tot el vaig pessigar. No trobav
 
 # Una mòmia és una mòmia
 
-<img class="emoji" src="web/twemoji/26b0.svg">
+<img class="emoji" src="web/twemoji/26b0.svg" />
 
 M’he aturat davant de l’única mòmia nord-americana de la col·lecció. Arkham, Massachusetts, n’informava exiguament la fitxa. Un exemplar, entenc, valuós, potser un indi *pennacook*, tot i que el rictus i els parracs em suggerien més aviat una bubota.
 
@@ -734,7 +734,7 @@ M’he aturat davant de l’única mòmia nord-americana de la col·lecció. Ark
 
 # *Die Grundlosigkeit*
 
-<img class="emoji" src="web/twemoji/1f6d5.svg">
+<img class="emoji" src="web/twemoji/1f6d5.svg" />
 
 Li havien arribat reports de les excavacions de l’Institut Urusvati, en una vall als contraforts occidentals de l’Himàlaia. Un enclavament arqueològic d’una riquesa extraordinària, i d’una remota antiguitat. Coetani, potser, de Mohenjo-Daro? Es tractava, sens dubte, de la misteriosa Kavishnanda, indret bellament descrit pel Swami Panchadasi. Destacava, entre totes les troballes, la d’un pou al qual s’accedia descendint múltiples trams d’escales. A l’estil dels *baoli* de Delhi —que continuen usant-se com a cisternes i banys—, però més primitiu i molt més profund. Carter va evocar per a nosaltres la memorable prosa del místic: els milers de graons, els pòrtics ombrívols, la negror i el borbolleig de l’aigua, l’amenaça de Zura, l’ens ominós al qual s’ofrenaven sacrificis.
 
@@ -742,7 +742,7 @@ Li havien arribat reports de les excavacions de l’Institut Urusvati, en una va
 
 # Com va guanyar Danvers una plaça a Miskatonic
 
-<img class="emoji" src="web/twemoji/1f58b.svg">
+<img class="emoji" src="web/twemoji/1f58b.svg" />
 
 Mentre l’esperava, la secretària del seu tutor li va demanar si podia ajudar-lo amb unes notes que calia mecanografiar. Càndidament va accedir a dictar-li-les i a la segona frase es va adonar del sentit i la procedència reals d’aquell fragment. Però —per això mateix?— no va poder aturar-se i va continuar recitant el full en veu alta, vocalitzant la lletania d’abominables perversions.
 
@@ -754,7 +754,7 @@ Va deixar anar una riota sinistra. La secretària es va aixecar i se li va arram
 
 # Viatge a Espanya
 
-<img class="emoji" src="web/twemoji/1f6c2.svg">
+<img class="emoji" src="web/twemoji/1f6c2.svg" />
 
 Ateses les circumstàncies, era normal que s’estenguessin els rumors sobre delators o agents infiltrats. Danvers no va ser aliè a aquesta mena de sospites. Cridaven l’atenció la seva llibertat de moviments i les destinacions dels seus viatges, tan exòtiques com problemàtiques: el Tibet —incorporat a la República Popular de la Xina—, Armènia —Unió Soviètica— i l’Espanya de Franco. No podem precisar tot el que buscava en aquests llocs, però hem llegit les seves notes sobre la visita a una ubicació imprecisa de la costa mediterrània, on es conservava el crani d’un ciclop. Esperà tres dies a entrevistar-se amb l’autoritat local. La resposta el sorprengué. Es tractava de les restes d’un avantpassat seu, li digué el capitost. Se les estimava, però s’avindria a lliurar-les a canvi d’una certa suma de diners.
 
@@ -762,7 +762,7 @@ Danvers maleí tricorns, sotanes i sevillanes. L’esborronava el que va qualifi
 
 # *I remember Spain*
 
-<img class="emoji" src="web/twemoji/1fa96.svg">
+<img class="emoji" src="web/twemoji/1fa96.svg" />
 
 Va tornar a ponderar l’heroisme dels *marines* —en aquesta nova operació imperialista que difonia la premsa— i es va vantar d’haver participat ell mateix en dues guerres: des d’un despatx, com a oficial d’intel·ligència. Vaig tocar l’ase. M’emprenyava el seu patrioterisme i ell se sentia ofès quan jo defensava el no a la guerra. No era la primera vegada que xocàvem.
 
@@ -774,7 +774,7 @@ M’adverteixen que no és segur per a mi, estudiant estranger, parlar amb tanta
 
 # Una eternitat
 
-<img class="emoji" src="web/twemoji/1f9df.svg">
+<img class="emoji" src="web/twemoji/1f9df.svg" />
 
 Una alba gelada al llit sec d’un riu, enfront d’un cementeri. Els cadàvers amuntegats, la sang que en regalimava. Que llarga s’havia fet la nit i que breu el final.
 
@@ -810,7 +810,7 @@ Comptava mentalment. Com voleu que compti un mort? Amb els dits no pot.
 
 # Acció exterior
 
-<img class="emoji" src="web/twemoji/1f4d5.svg">
+<img class="emoji" src="web/twemoji/1f4d5.svg" />
 
 —No seria, doncs, pròpiament un idioma?
 
@@ -822,7 +822,7 @@ Aquell mateix vespre, Rice es va afanyar a demanar per correu el *Diccionari Cat
 
 # Adéu-siau
 
-<img class="emoji" src="web/twemoji/2620.svg">
+<img class="emoji" src="web/twemoji/2620.svg" />
 
 Tres colpets suaus a la porta de la sala de professorat vella de l’ala nord —la més discreta—, una pausa i tres colpets més. Sense tardar m’han demanat que passés. Sabia que m’esperaven. He lliurat el nou telegrama i he marxat amb una reverència mentre el conciliàbul s’informava.
 
@@ -838,7 +838,7 @@ M’he aturat un moment a fora per escoltar les primeres reaccions, abans de tor
 
 # Darrera defensa
 
-<img class="emoji" src="web/twemoji/1f984.svg">
+<img class="emoji" src="web/twemoji/1f984.svg" />
 
 La vaig veure al monestir de Strahov, en una petita *Wunderkammer* annexa a la Sala Filosòfica. Ella s’havia fixat sobretot en els llibres. En vam parlar a la nit, en tornar a l’hotel.
 
@@ -860,7 +860,7 @@ Enlloc, sens dubte. Només es tractava d’una maniobra de distracció desespera
 
 # *Je ne sais pas si vous vous souvenez de moi*
 
-<img class="emoji" src="web/twemoji/1fa9e.svg">
+<img class="emoji" src="web/twemoji/1fa9e.svg" />
 
 Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però he oblidat completament el seu cognom. El bloc de pisos on vivia ha sofert una certa degradació. La façana necessitaria una bona mà de pintura. I el pati que li donava un aire de Place des Vosges per a rendes modestes agrairia l’atenció d’un jardiner. He entrat al vestíbul. A la bústia que va ser seva —i de la seva amiga Clémentine— hi ha uns altres noms que han estat ratllats. Però sobretot volia donar una ullada a aquells dos ascensors, un més ampli del que era habitual i l’altre estranyament angost. Això sempre ens feia riure.
 
@@ -870,7 +870,7 @@ Hi torne al cap d’un munt d’anys. Recorde molt bé els seus tres noms, però
 
 # Les ciutats perdudes
 
-<img class="emoji" src="web/twemoji/1f3db.svg">
+<img class="emoji" src="web/twemoji/1f3db.svg" />
 
 Buscàvem una ciutat perduda a la selva tropical. Acampàvem en tendes a la penombra del sotabosc, damunt d’un fang primordial. L’ambient era xafogós. De tot s’emparava la floridura.
 
